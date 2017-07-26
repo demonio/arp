@@ -1,9 +1,9 @@
 # ROL Avanzado
-## Indice v0.1
+## Indice v0.2
 ### Heroes y Magia
 
-* [¿QUE ES ROLA?](https://github.com/KumbiaPHP/Documentation/blob/master/es/rola.md)
-	* [Core](https://github.com/KumbiaPHP/Documentation/blob/master/es/rola/core.md)
+* [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es)
+	* [Núcleo](https://github.com/demonio/arp/tree/master/es/rola/nucleo.md)
 	* [Metajuego]
 * [PERSONAJE]
 	* [Descripción]
