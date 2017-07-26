@@ -1,0 +1,55 @@
+# ROL Avanzado
+## Indice v0.1
+### Heroes y Magia
+
+* [¿QUE ES ROLA?](https://github.com/KumbiaPHP/Documentation/blob/master/es/rola.md)
+	* [Core](https://github.com/KumbiaPHP/Documentation/blob/master/es/rola/core.md)
+	* [Metajuego]
+* [PERSONAJE]
+	* [Descripción]
+	* [Rasgos]
+	* [Vínculos]
+	* [Herencia]
+* [RAZA]
+* [PROFESIÓN]
+* [CARACTERÍSTICAS]
+	* [MÚSculo]
+	* [VITalidad]
+	* [REAcción]
+	* [PERcepción]
+	* [INTelecto]
+* [HABILIDADES]
+	* [Básicas]
+	* [Especializaciones]
+* [COMPROBACIONES]
+	* [Cartas]
+	* [Dados]
+	* [Monedas]
+* [DIFICULTAD]
+	* [Figurada]
+	* [Realista]
+* [ANATOMÍA]
+	* [Localizaciones]
+	* [Heridas]
+	* [Locura]
+* [MAGIA]
+	* [Alma]
+	* [Aura]
+	* [Artefactos]
+	* [Runas]
+
+### Objetos y vehiculos
+* [ARMADURAS]
+* [ARMAS]
+* [EQUIPO]
+* [VEHICULOS]
+
+### Antagonistas y planos de existencia
+* [ANTAGONISTAS]
+* [EPOCAS]
+	* [Espada y brujería]
+	* [Conocida]
+	* [Apocalipsis]
+	* [Ciencia ficcion]
+* [PLANOS]
+* [PORTALES]
