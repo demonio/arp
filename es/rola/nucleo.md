@@ -1,5 +1,5 @@
 # ROL Avanzado
-## Núcleo <small>v0.1<small>
+## Núcleo <sup>0.2<sup>
 
 El núcleo de ROLA es la pauta principal en la que está basada este sistema de juego.
 
@@ -10,3 +10,11 @@ El núcleo de ROLA es la pauta principal en la que está basada este sistema de 
 
 ### SINTAXIS
 * Hab-(Dif|Opo)-Jug=(Ven|Des)
+
+### LEYENDA
+* _Hab_: Habilidad
+* _Dif_: Dificultad
+* _Opo_: Oposición
+* _Jug_: Jugada
+* _Ven_: Ventaja
+* _Des_: Desventaja

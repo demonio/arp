@@ -1,7 +1,8 @@
 # ROL Avanzado
-## Semántica <small>v0.1<small>
+## Semántica <sub>0.2<sub>
 
-En ROLA tenemos listas que relacionan los números con palabras. ROLA no necesita esto, los números hablan por sí solos, pero entendemos que hay jugadores que necesitan este estímulo para úbicarse mejor.
+En ROLA nos gusta la semántica y tenemos listas que relacionan los números con palabras.<br> 
+Aunque los números hablan por sí solos, cuando a la inversa queremos asignar uno a algo, necesitamos una refencia semántica para estar más acertado.
 
 Las listas no son definitivas ya que a veces es muy difícil encontrar diferencias entre palabras tan similares.
 

@@ -1,5 +1,5 @@
 # ROL Avanzado
-## ¿Qué es ROLA? <small>v0.2<small>
+## ¿Qué es ROLA? <sup>v0.2<sup>
 
 ROLA es un juego de mesa para dos o más jugadores que se sientan alrededor de una mesa a rolear, donde entendemos por rolear, el simple hecho de mantener una conversación inmersiva e imaginativa en un entorno interactivo.
 
