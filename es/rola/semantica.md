@@ -1,5 +1,5 @@
 # ROL Avanzado
-## Semántica <sub>0.2<sub>
+## Semántica <sup>v0.3</sup>
 
 En ROLA nos gusta la semántica y tenemos listas que relacionan los números con palabras.<br> 
 Aunque los números hablan por sí solos, cuando a la inversa queremos asignar uno a algo, necesitamos una refencia semántica para estar más acertado.
@@ -17,6 +17,7 @@ Las listas no son definitivas ya que a veces es muy difícil encontrar diferenci
 	* 2 = Flojo o tonto.
 	* 1 = Débil o retrasado.
 	* 0 = Ni siente ni padece.
+
 * La semántica en habilidades algo como esto:
 	* 9 = Maestro.
 	* 8 = Experto.
@@ -28,6 +29,7 @@ Las listas no son definitivas ya que a veces es muy difícil encontrar diferenci
 	* 2 = Aprendiz.
 	* 1 = Neófito.
 	* 0 = Sin experiencia palpable.
+
 * La semántica para obstaculos podría ser esta:
 	* 9 = Locura, solo para temerarios con mucha experiencia.
 	* 8 = Todo un reto incluso para los mas experimentados.  
@@ -39,5 +41,17 @@ Las listas no son definitivas ya que a veces es muy difícil encontrar diferenci
 	* 2 = Poca cosa pero complicado para un niño pequeño.
 	* 1 = Imperceptible pero complicado para un bebe.
 	* 0 = No supone resistencia alguna.
+
+* Semántica del nivel de actitud:
+	* 9 = Devoción.
+	* 8 = Admiración.
+	* 7 = 
+	* 6 = 
+	* 5 = 
+	* 4 = 
+	* 3 = 
+	* 2 = 
+	* 1 = Desprecio.
+	* 0 = Prejuicio.
 
 > Puedes emplear tu propia semántica de terminos como si de una nota de examen se tratara, donde el 9 es la nota más alta y el 0 la más baja.

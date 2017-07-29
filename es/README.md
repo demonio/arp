@@ -1,11 +1,12 @@
 # ROL Avanzado
-## Indice <sub>v0.4<sub>
+## Indice <sup>v0.5</sup>
 ### Heroes y Magia
 
 * [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es/rola.md)
+	* [Glosario](https://github.com/demonio/arp/tree/master/es/rola/glosario.md)
 	* [Núcleo](https://github.com/demonio/arp/tree/master/es/rola/nucleo.md)
 	* [Semántica](https://github.com/demonio/arp/tree/master/es/rola/semantica.md)
-	* [Metajuego]
+	* [Metajuego](https://github.com/demonio/arp/tree/master/es/rola/metajuego.md)
 * [PERSONAJE]
 	* [Descripción]
 	* [Rasgos]
