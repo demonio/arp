@@ -1,5 +1,5 @@
 # ROL Avanzado
-## Indice <sup>v0.5</sup>
+## Indice <sup>v0.6</sup>
 ### Heroes y Magia
 
 * [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es/rola.md)
@@ -12,18 +12,18 @@
 	* [Rasgos]
 	* [Vínculos]
 	* [Herencia]
-* [RAZA]
-* [PROFESIÓN]
-* [CARACTERÍSTICAS]
-	* [MÚSculo]
-	* [VITalidad]
-	* [REAcción]
-	* [PERcepción]
-	* [INTelecto]
+* [RAZA](https://github.com/demonio/arp/tree/master/es/rola/raza.md)
+* [PROFESIÓN](https://github.com/demonio/arp/tree/master/es/rola/profesion.md)
+* [ATRIBUTOS](https://github.com/demonio/arp/tree/master/es/rola/atributos.md)
+	* [MÚSculo](https://github.com/demonio/arp/tree/master/es/rola/atributos/musculo.md)
+	* [VITalidad](https://github.com/demonio/arp/tree/master/es/rola/atributos/vitalidad.md)
+	* [REAcción](https://github.com/demonio/arp/tree/master/es/rola/atributos/reaccion.md)
+	* [PERcepción](https://github.com/demonio/arp/tree/master/es/rola/atributos/percepcion.md)
+	* [INTelecto](https://github.com/demonio/arp/tree/master/es/rola/atributos/intelecto.md)
 * [HABILIDADES]
 	* [Básicas]
 	* [Especializaciones]
-* [COMPROBACIONES]
+* [COMPROBACIONES](https://github.com/demonio/arp/tree/master/es/rola/comprobaciones.md)
 	* [Cartas]
 	* [Dados]
 	* [Monedas]

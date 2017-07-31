@@ -6,7 +6,7 @@ Aunque los números hablan por sí solos, cuando a la inversa queremos asignar u
 
 Las listas no son definitivas ya que a veces es muy difícil encontrar diferencias entre palabras tan similares.
 
-* *La semántica en una característica sin definir podría ser algo así:*
+* __La semántica en una característica sin definir podría ser algo así:__
 	* 9 = Casi perfecto o sobresaliente.
 	* 8 = Admirable o sensacional.
 	* 7 = Resultón o excelente.
@@ -18,7 +18,7 @@ Las listas no son definitivas ya que a veces es muy difícil encontrar diferenci
 	* 1 = Débil o retrasado.
 	* 0 = Ni siente ni padece.
 
-* *La semántica en habilidades algo como esto:*
+* __La semántica en habilidades algo como esto:__
 	* 9 = Maestro.
 	* 8 = Experto.
 	* 7 = Aventajado.
@@ -30,7 +30,7 @@ Las listas no son definitivas ya que a veces es muy difícil encontrar diferenci
 	* 1 = Neófito.
 	* 0 = Sin experiencia palpable.
 
-* *La semántica para obstaculos podría ser esta:*
+* __La semántica para obstaculos podría ser esta:__
 	* 9 = Locura, solo para temerarios con mucha experiencia.
 	* 8 = Todo un reto incluso para los mas experimentados.  
 	* 7 = Muy difícil incluso sabiendo lo que se hace.
@@ -42,7 +42,7 @@ Las listas no son definitivas ya que a veces es muy difícil encontrar diferenci
 	* 1 = Imperceptible pero complicado para un bebe.
 	* 0 = No supone resistencia alguna.
 
-* *Semántica del nivel de actitud por algo o alguien:*
+* __Semántica del nivel de actitud por algo o alguien:__
 	* 9 = Devoción.
 	* 8 = Admiración.
 	* 7 = Respeto.
