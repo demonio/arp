@@ -2,25 +2,25 @@
 ## Descripción <sup>v0.1</sup>
 
 1. Nombre del personaje
-El nombre se asigna al azar a trevás de un generador de nombres o asignado por otro jugador o MJ y no tiene por que gustar. Es el nombre puesto por los padres y forma parte del historia del personaje si se explica de donde procede.
+	- El nombre se asigna al azar a trevás de un generador de nombres o asignado por otro jugador o MJ y no tiene por que gustar. Es el nombre puesto por los padres y forma parte del historia del personaje si se explica de donde procede.
 
 1. Alias del personaje
-Este nombre lo elige el jugador, es el nombre que se da a conocer al resto del mundo si así se desea.
+	- Este nombre lo elige el jugador, es el nombre que se da a conocer al resto del mundo si así se desea.
 
 1. Nombre del jugador
-Se deja en blanco si es compartido.
+	- Se deja en blanco si es compartido.
 
 1. Sexo
-Hombre o Mujer
+	- Hombre o Mujer
 
 1. Edad
-Desarrolla el personaje como mínimo 15 años desde su nacimiento.
+	- Desarrolla el personaje como mínimo 15 años desde su nacimiento.
 
 1. Altura
-Cada año de desarrollo hasta los 20 es posible ganar tamaño.
+	- Cada año de desarrollo hasta los 20 es posible ganar tamaño.
 
 1. Peso
-Cada año de desarrollo hasta los 20 es posible ganar volumen.
+	- Cada año de desarrollo hasta los 20 es posible ganar volumen.
 
 1. Raza (Especie, Linaje, Origen)
 	* 1d100 
@@ -39,4 +39,4 @@ Cada año de desarrollo hasta los 20 es posible ganar volumen.
 	* 51-00 [Común] Se procede de la civilización donde todo resulta normal y aburrido.
 
 1. Profesión
-Son numerosas, tanto que depende del desarrollo del personaje. De cara a los demás el personaje puede ser lo que diga que es o lo que aparente sus rasgos o vestiduras.
+	- Son numerosas, tanto que depende del desarrollo del personaje. De cara a los demás el personaje puede ser lo que diga que es o lo que aparente sus rasgos o vestiduras.
