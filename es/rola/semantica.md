@@ -1,5 +1,5 @@
 # ROL Avanzado
-## Semántica <sup>v0.5</sup>
+## Semántica <sup>v0.6</sup>
 
 En ROLA nos gusta la semántica y tenemos listas que relacionan los números con palabras.<br> 
 Aunque los números hablan por sí solos, cuando a la inversa queremos asignar un número a algo, necesitamos una refencia semántica para estar más acertado.
@@ -58,4 +58,4 @@ Las listas no son definitivas ya que a veces es muy difícil encontrar diferenci
 * 1 = Prejuicio.
 * 0 = Indiferencia. 
 
-> Puedes emplear tu propia semántica de terminos como si de una nota de examen se tratara, donde el 9 es la nota más alta y el 0 la más baja.
+> Puedes emplear tu propia semántica de terminos como si de una nota de examen se tratara, donde el 10 es la nota más alta y el 0 la más baja.
