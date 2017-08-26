@@ -1,26 +1,26 @@
 # ROL Avanzado
-## Indice <sup>v0.8</sup>
+## Indice <sup>v0.9</sup>
 ### Heroes y Magia
 
-* [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es/rola.md)
+0) [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es/rola.md)
 	* [Licencia](https://github.com/demonio/arp/tree/master/es/rola/licencia.md)
 	* [Glosario](https://github.com/demonio/arp/tree/master/es/rola/glosario.md)
-	* [Núcleo](https://github.com/demonio/arp/tree/master/es/rola/nucleo.md)
 	* [Semántica](https://github.com/demonio/arp/tree/master/es/rola/semantica.md)
 	* [Metajuego](https://github.com/demonio/arp/tree/master/es/rola/metajuego.md)
-* [PERSONAJE]
+1) [PERSONAJE]
 	* [Descripción]
 	* [Rasgos]
 	* [Vínculos]
 	* [Herencia]
+	
 * [RAZA](https://github.com/demonio/arp/tree/master/es/raza.md)
 * [PROFESIÓN](https://github.com/demonio/arp/tree/master/es/profesion.md)
-* [ATRIBUTOS](https://github.com/demonio/arp/tree/master/es/atributos.md)
-	* [MÚSculo](https://github.com/demonio/arp/tree/master/es/atributos/musculo.md)
-	* [VITalidad](https://github.com/demonio/arp/tree/master/es/atributos/vitalidad.md)
-	* [REAcción](https://github.com/demonio/arp/tree/master/es/atributos/reaccion.md)
-	* [PERcepción](https://github.com/demonio/arp/tree/master/es/atributos/percepcion.md)
-	* [INTelecto](https://github.com/demonio/arp/tree/master/es/atributos/intelecto.md)
+* [CARACTERÍSTICAS](https://github.com/demonio/arp/tree/master/es/caracteristicas.md)
+	* [MÚSculo](https://github.com/demonio/arp/tree/master/es/caracteristicas/musculo.md)
+	* [VITalidad](https://github.com/demonio/arp/tree/master/es/caracteristicas/vitalidad.md)
+	* [REAcción](https://github.com/demonio/arp/tree/master/es/caracteristicas/reaccion.md)
+	* [PERcepción](https://github.com/demonio/arp/tree/master/es/caracteristicas/percepcion.md)
+	* [INTelecto](https://github.com/demonio/arp/tree/master/es/caracteristicas/intelecto.md)
 * [HABILIDADES](https://github.com/demonio/arp/tree/master/es/habilidades.md)
 	* [Básicas]
 	* [Especializaciones]

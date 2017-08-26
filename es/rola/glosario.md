@@ -1,5 +1,5 @@
 # ROL Avanzado
-## Glosario <sup>v0.2</sup>
+## Glosario <sup>v0.3</sup>
 
 En esta sección explicamos los terminos que manejamos a lo largo y ancho del manual, con el fin de que este sea lo más corto posible como comprensible.
 
@@ -24,3 +24,4 @@ En esta sección explicamos los terminos que manejamos a lo largo y ancho del ma
 * [VIT] El atributo de VITalidad.
 * [1d100] Un dado de cien caras o dos de diez caras, donde uno indica las decenas y el otro las unidades.
 * [2d10] Dos dados de diez caras.
+* [2d6] Dos dados de seis caras.
