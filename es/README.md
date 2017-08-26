@@ -2,18 +2,18 @@
 ## Indice <sup>v0.9</sup>
 ### Heroes y Magia
 
-0) [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es/rola.md)
+0. [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es/rola.md)
 	* [Licencia](https://github.com/demonio/arp/tree/master/es/rola/licencia.md)
 	* [Glosario](https://github.com/demonio/arp/tree/master/es/rola/glosario.md)
 	* [Semántica](https://github.com/demonio/arp/tree/master/es/rola/semantica.md)
 	* [Metajuego](https://github.com/demonio/arp/tree/master/es/rola/metajuego.md)
-1) [PERSONAJE]
+1. [PERSONAJE]
 	* [Descripción]
 	* [Rasgos]
 	* [Vínculos]
 	* [Herencia]
-	
-* [RAZA](https://github.com/demonio/arp/tree/master/es/raza.md)
+
+1. [RAZA](https://github.com/demonio/arp/tree/master/es/raza.md)
 * [PROFESIÓN](https://github.com/demonio/arp/tree/master/es/profesion.md)
 * [CARACTERÍSTICAS](https://github.com/demonio/arp/tree/master/es/caracteristicas.md)
 	* [MÚSculo](https://github.com/demonio/arp/tree/master/es/caracteristicas/musculo.md)
