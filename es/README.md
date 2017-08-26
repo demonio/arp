@@ -7,7 +7,7 @@
 	* [Glosario](https://github.com/demonio/arp/tree/master/es/rola/glosario.md)
 	* [Semántica](https://github.com/demonio/arp/tree/master/es/rola/semantica.md)
 	* [Metajuego](https://github.com/demonio/arp/tree/master/es/rola/metajuego.md)
-1. [Descripción]
+1. [Descripción](https://github.com/demonio/arp/tree/master/es/descripcion.md)
 1. [Rasgos]
 1. [Vínculos]
 1. [Herencia]
