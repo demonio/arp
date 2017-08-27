@@ -45,4 +45,4 @@
 | 06-12 | [Afortunad@] Se procede del lugar más deseado y con los mejores privilegios. |
 | 13-25 | [Desafortunad@] Se procede de un lugar sin recursos, en conflicto o maldito. |
 | 26-50 | [Infrecuente] Se procede apartado de la civilizción pero cerca de esta, en plena naturaleza. |
-| 51-00 | [Común] Se procede de la civilización donde todo resulta normal y aburrido. |
+| 51-00 | [Común] Se procede de la civilización donde la rutina se mezcla con el bullicio. |
