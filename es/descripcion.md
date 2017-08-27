@@ -1,36 +1,29 @@
 # ROL Avanzado
 ## Descripción <sup>v0.1</sup>
 
-1. Nombre del personaje
-	- El nombre se asigna al azar a trevás de un generador de nombres o asignado por otro jugador o MJ y no tiene por que gustar. Es el nombre puesto por los padres y forma parte del historial del personaje.
+### Nombre del personaje
+El nombre se asigna al azar a trevás de un generador de nombres o asignado por otro jugador o MJ y no tiene por que gustar. Es el nombre puesto por los padres y forma parte del historial del personaje.
 
-1. Alias del personaje
-	- Si es un mote, se puede poner más adelante, cuando el personaje coja forma o se relacione.
-	Si es un alias que ha forjado el personaje, elige uno y apuntalo también en su historial.
+### Alias del personaje
+Si es un mote, se puede poner más adelante, cuando el personaje coja forma o se relacione y si es un alias que ha forjado el personaje, elige uno y apuntalo también en su historial.
 
-1. Nombre del jugador
-	- El mismo que el jugador que lo controla o el del propietario.
+### Nombre del jugador
+El mismo que el jugador que lo controla o el del propietario.
 
-1. Sexo
-	- Hombre o Mujer o No humano.
+### Sexo
+Hombre o Mujer o No humano.
 
-1. Edad
-	- Desarrolla el personaje como mínimo 17 años desde su nacimiento.
+### Edad
+Desarrolla el personaje como mínimo 17 años desde su nacimiento.
 
-1. Altura
-	- Cada año de desarrollo hasta los 17 es posible ganar tamaño.
+### Altura
+Cada año de desarrollo hasta los 17 es posible ganar tamaño.
 
-1. Peso
-	- Como esta relacionado con la altura (tambien hábitos y genética) se calcula durante el desarrollo.
+### Peso
+Como esta relacionado con la altura (tambien hábitos y genética) se calcula durante el desarrollo.
 
-1. Raza (Especie, Linaje)
-	- Como en la vida misma, la raza no se puede escoger, tira en la Tabla de raza.
-
-1. Procedencia (Origen)
-	- La procedencia tampoco se puede escoger, tira en la Tabla de procedencia.
-
-1. Profesión (Clase)
-	- Son numerosas, tanto que depende del desarrollo del personaje. De cara a los demás el personaje puede ser lo que diga que es o lo que aparenten sus rasgos y vestiduras.
+### Raza (Especie, Linaje)
+Como en la vida misma, la raza no se puede escoger:
 
 | 1d100 | Tabla de raza |
 | :---- | :---- |
@@ -40,6 +33,9 @@
 | 26-50 | [Infrecuente] Destaca por encima de la raza común. |
 | 51-00 | [Común] Esta es la raza más común y discreta de todas, como suele ser la raza humana. |
 
+### Procedencia (Origen)
+La procedencia tampoco se puede escoger:
+
 | 1d100 | Tabla de procedencia |
 | :---- | :---- |
 | 01-05 | [Exótic@] Se procede del lugar más extraño y lejano posible. |
@@ -47,3 +43,6 @@
 | 13-25 | [Desafortunad@] Se procede de un lugar sin recursos, en conflicto o maldito. |
 | 26-50 | [Infrecuente] Se procede apartado de la civilizción pero cerca de esta, en plena naturaleza. |
 | 51-00 | [Común] Se procede de la civilización donde la rutina se mezcla con el bullicio. |
+
+### Profesión (Clase)
+Son numerosas, tanto que depende del desarrollo del personaje. De cara a los demás el personaje puede ser lo que diga que es o lo que aparenten sus rasgos y vestiduras.
