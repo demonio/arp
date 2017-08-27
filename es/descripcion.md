@@ -29,7 +29,7 @@
 	- Como para con el nombre y la raza, la procedencia tampoco se puede escoger, tira en la Tabla de procedencia.
 
 1. Profesión (Clase)
-	- Son numerosas, tanto que depende del desarrollo del personaje. De cara a los demás el personaje puede ser lo que diga que es o lo que aparente sus rasgos o vestiduras.
+	- Son numerosas, tanto que depende del desarrollo del personaje. De cara a los demás el personaje puede ser lo que diga que es o lo que aparenten sus rasgos y vestiduras.
 
 | 1d100 | Tabla de raza |
 | ----- | ----- |
