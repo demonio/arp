@@ -22,9 +22,16 @@
 1. Peso
 	- Cada año de desarrollo hasta los 20 es posible ganar volumen.
 
-1. Raza (Especie, Linaje, Origen)
-	
-| 1d100 | 		|
+1. Raza (Especie, Linaje)
+	- Al igual que el nombre la raza no se puede escoger, tira en la Tabla de raza.
+
+1. Procedencia (Origen)
+	- Como para con el nombre y la raza, la procedencia tampoco se puede escoger, tira en la Tabla de procedencia.
+
+1. Profesión (Clase)
+	- Son numerosas, tanto que depende del desarrollo del personaje. De cara a los demás el personaje puede ser lo que diga que es o lo que aparente sus rasgos o vestiduras.
+
+| 1d100 | Tabla de raza |
 | ----- | ----- |
 | 01-05 | [Exótic@] Es la raza o mezcla más rara de ver. Llama la atención para bien o para mal a partes iguales. |
 | 06-12 | [Afortunad@] Es una raza que llama mucho la atención, es envidiada y también rara de ver. |
@@ -32,13 +39,9 @@
 | 26-50 | [Infrecuente] Destaca por encima de la raza común. |
 | 51-00 | [Común] Esta es la raza más común y discreta de todas, como suele ser la raza humana. |
 
-1. Procedencia
-	* 1d100
-	* 01-05 [Exótic@] Se procede del lugar más extraño y lejano posible.
-	* 06-12 [Afortunad@] Se procede del lugar más deseado y con los mejores privilegios.
-	* 13-25 [Desafortunad@] Se procede de un lugar sin recursos, en conflicto o maldito.
-	* 26-50 [Infrecuente] Se procede apartado de la civilizción pero cerca de esta, en plena naturaleza.
-	* 51-00 [Común] Se procede de la civilización donde todo resulta normal y aburrido.
-
-1. Profesión
-	- Son numerosas, tanto que depende del desarrollo del personaje. De cara a los demás el personaje puede ser lo que diga que es o lo que aparente sus rasgos o vestiduras.
+| 1d100 | Tabla de procedencia |
+| 01-05 | [Exótic@] Se procede del lugar más extraño y lejano posible. |
+| 06-12 | [Afortunad@] Se procede del lugar más deseado y con los mejores privilegios. |
+| 13-25 | [Desafortunad@] Se procede de un lugar sin recursos, en conflicto o maldito. |
+| 26-50 |[Infrecuente] Se procede apartado de la civilizción pero cerca de esta, en plena naturaleza. |
+| 51-00 | [Común] Se procede de la civilización donde todo resulta normal y aburrido. |
