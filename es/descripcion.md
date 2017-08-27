@@ -39,6 +39,13 @@
 | 26-50 | [Infrecuente] Destaca por encima de la raza común. |
 | 51-00 | [Común] Esta es la raza más común y discreta de todas, como suele ser la raza humana. |
 
+| 1d100 | Tabla de raza |
+| ----- | ----- |
+| 01-05 | [Exótic@] Es la raza o mezcla más rara de ver. Llama la atención para bien o para mal a partes iguales. |
+| 06-12 | [Afortunad@] Es una raza que llama mucho la atención, es envidiada y también rara de ver. |
+| 13-25 | [Desafortunad@] Es una raza que cuando se deja ver genera prejuicios. |
+| 26-50 | [Infrecuente] Destaca por encima de la raza común. |
+| 51-00 | [Común] Esta es la raza más común y discreta de todas, como suele ser la raza humana. |
 
 | 1d100 | Tabla de procedencia |
 | 01-05 | [Exótic@] Se procede del lugar más extraño y lejano posible. |
