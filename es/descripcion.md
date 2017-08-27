@@ -2,36 +2,32 @@
 ## Descripción <sup>v0.1</sup>
 
 1. Nombre del personaje
-	- ¿Cómo te llamaron tus padres?
-	El nombre se asigna al azar a trevás de un generador de nombres o asignado por otro jugador o MJ y no tiene por que gustar. Es el nombre puesto por los padres y forma parte del historial del personaje.
+	- El nombre se asigna al azar a trevás de un generador de nombres o asignado por otro jugador o MJ y no tiene por que gustar. Es el nombre puesto por los padres y forma parte del historial del personaje.
 
 1. Alias del personaje
-	- ¿Qué mote te pusieron tus amigos o como te haces llamar?
-	Si es un mote, se puede poner más adelante, cuando el personaje coja forma o se relacione.  
+	- Si es un mote, se puede poner más adelante, cuando el personaje coja forma o se relacione.
 	Si es un alias que ha forjado el personaje, elige uno y apuntalo también en su historial.
 
 1. Nombre del jugador
-	- ¿Quién va a jugar el personaje?
-	El mismo que el jugador que lo controla o el del propietario.
+	- El mismo que el jugador que lo controla o el del propietario.
 
 1. Sexo
-	- ¿Que cuerpo tiene el personaje?
-	Hombre o Mujer o No humano.
+	- Hombre o Mujer o No humano.
 
 1. Edad
-	- Desarrolla el personaje como mínimo 15 años desde su nacimiento.
+	- Desarrolla el personaje como mínimo 17 años desde su nacimiento.
 
 1. Altura
-	- Cada año de desarrollo hasta los 20 es posible ganar tamaño.
+	- Cada año de desarrollo hasta los 17 es posible ganar tamaño.
 
 1. Peso
-	- Cada año de desarrollo hasta los 20 es posible ganar volumen.
+	- Como esta relacionado con la altura (tambien hábitos y genética) se calcula durante el desarrollo.
 
 1. Raza (Especie, Linaje)
-	- Al igual que el nombre, la raza no se puede escoger, tira en la Tabla de raza.
+	- Como en la vida misma, la raza no se puede escoger, tira en la Tabla de raza.
 
 1. Procedencia (Origen)
-	- Como pasa con el nombre y la raza, la procedencia tampoco se puede escoger, tira en la Tabla de procedencia.
+	- La procedencia tampoco se puede escoger, tira en la Tabla de procedencia.
 
 1. Profesión (Clase)
 	- Son numerosas, tanto que depende del desarrollo del personaje. De cara a los demás el personaje puede ser lo que diga que es o lo que aparenten sus rasgos y vestiduras.
