@@ -23,7 +23,7 @@
 	- Cada año de desarrollo hasta los 20 es posible ganar volumen.
 
 1. Raza (Especie, Linaje)
-	- Al igual que el nombre la raza no se puede escoger, tira en la Tabla de raza.
+	- Al igual que el nombre, la raza no se puede escoger, tira en la Tabla de raza.
 
 1. Procedencia (Origen)
 	- Como para con el nombre y la raza, la procedencia tampoco se puede escoger, tira en la Tabla de procedencia.
@@ -38,6 +38,7 @@
 | 13-25 | [Desafortunad@] Es una raza que cuando se deja ver genera prejuicios. |
 | 26-50 | [Infrecuente] Destaca por encima de la raza común. |
 | 51-00 | [Común] Esta es la raza más común y discreta de todas, como suele ser la raza humana. |
+
 
 | 1d100 | Tabla de procedencia |
 | 01-05 | [Exótic@] Se procede del lugar más extraño y lejano posible. |
