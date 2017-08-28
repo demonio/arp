@@ -13,6 +13,9 @@ El mismo que el jugador que lo controla o el del propietario.
 ### Sexo
 Hombre o Mujer o No humano.
 
+### Testosterona
+Tira 2d10 y toma el número más alto si el personaje es hombre o el más bajo si es mujer.
+
 ### Edad
 Desarrolla el personaje como mínimo 17 años desde su nacimiento.
 
@@ -23,7 +26,7 @@ Depende de la procedencia pero dentro de esta se pueden dar casos raros:
 | :---- | :---- |
 | 01-05 | [Exótic@] Antinatural (azul o verde). |
 | 06-12 | [Afortunad@] El tuyo. |
-| 13-25 | [Desafortunad@] Calvo, canoso (gris) o blanco si los ojos son rojos. |
+| 13-25 | [Desafortunad@] Calvo, común pero canoso o con mechón/es o blanco si los ojos son rojos. |
 | 26-50 | [Infrecuente] Pelirrojo. |
 | 51-00 | [Común] Castaño, aunque depende de la procedencia puede ser negro o rubio. |
 
@@ -78,7 +81,6 @@ Lo aspectos son aquellos rasgos físicos que resaltan y nos hacen muy diferente 
 | | Cicatriz fea y visible | 
 | | Leve cojera | 
 | | Llamativo |
-| | Mechón |
 | | Mirón |
 | | Tatuado |  
 | | Zurdo |  
