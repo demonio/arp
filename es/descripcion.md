@@ -14,7 +14,7 @@ El mismo que el jugador que lo controla o el del propietario.
 Hombre o Mujer o No humano.
 
 ### Testosterona
-Tira 2d10 y toma el número más alto si el personaje es hombre o el más bajo si es mujer.
+Tira 2d10 y toma el número más alto como decenas si el personaje es hombre o el más bajo si es mujer.
 
 ### Edad
 Desarrolla el personaje como mínimo 17 años desde su nacimiento.
