@@ -18,11 +18,12 @@ Desarrolla el personaje como mínimo 17 años desde su nacimiento.
 
 ### Pelo
 Depende de la procedencia pero dentro de esta se pueden dar casos raros:
+
 | 1d100 | Tabla de color de ojos [Etiqueta] Ejemplo. |
 | :---- | :---- |
-| 01-05 | [Exótic@] Antinatural (azul o verde) |
+| 01-05 | [Exótic@] Antinatural (azul o verde). |
 | 06-12 | [Afortunad@] El tuyo. |
-| 13-25 | [Desafortunad@] Calvo, canoso o Blanco si los ojos son rojos. |
+| 13-25 | [Desafortunad@] Calvo, canoso (gris) o blanco si los ojos son rojos. |
 | 26-50 | [Infrecuente] Pelirrojo. |
 | 51-00 | [Común] Castaño, aunque depende de la procedencia puede ser negro o rubio. |
 
