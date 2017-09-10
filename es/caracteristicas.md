@@ -1,8 +1,10 @@
 # ROL Avanzado
-## Características <sup>v0.2</sup>
+## Características <sup>v0.3</sup>
 
-En ROLA partimos de dos características para crear el resto, MÚSculo e INTelecto. En nuestro caso vamos a estirar estos dos atributos y entre medias vamos a colocar la REAcción, que representa la sincronización del MÚSculo y el INTelecto. Entre medias del MÚSculo y la REAcción nos encontramos con la VITalidad y entre la REAcción y el INTelecto, la PERcepción.
+Las características de los PJs permiten resolver todo tipo de situaciones con un resultado general donde otros con una habilidad especializada conseguiran un resultado más preciso, profundo y/o técnico.
 
-Podriamos complicarlo más pero de momento estas cinco nos aportán todo lo que a rasgos generales queremos resolver.
+Usaremos unas características u otras en función del porcentaje de cuerpo o mente empleado como muestra la siguiete tabla:
 
-Las características permiten la personaje resolver todo tipo de situaciones, pero solo a rasgos generales, ya que un personaje especializado, podrá resolver una situación con mayor precisión.
+| 100% de cuerpo | 75% de cuerpo y 25% de mente | 50% de cuerpo y mente | 25% de cuerpo y 75% de mente | 100% de mente | 
+| :---- | :---- | :---- | :---- | :---- |
+| MÚSculo | VITalidad | REAcción | PERcepción | INTelecto |

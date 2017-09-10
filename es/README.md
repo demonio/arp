@@ -10,7 +10,7 @@
 1. [Descripción](https://github.com/demonio/arp/tree/master/es/descripcion.md)
 1. [Rasgos](https://github.com/demonio/arp/tree/master/es/rasgos.md)
 1. [Vínculos]
-1. [Herencia]
+1. [Historial](https://github.com/demonio/arp/tree/master/es/historial.md)
 1. [RAZA](https://github.com/demonio/arp/tree/master/es/raza.md)
 1. [PROFESIÓN](https://github.com/demonio/arp/tree/master/es/profesion.md)
 1. [CARACTERÍSTICAS](https://github.com/demonio/arp/tree/master/es/caracteristicas.md)
