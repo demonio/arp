@@ -1,5 +1,5 @@
 # ROL Avanzado
-## Indice <sup>v0.9</sup>
+## Indice <sup>v1.0</sup>
 ### Creación del personaje
 
 0. [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es/rola.md)
@@ -14,7 +14,7 @@
 1. [RAZA](https://github.com/demonio/arp/tree/master/es/raza.md)
 1. [PROFESIÓN](https://github.com/demonio/arp/tree/master/es/profesion.md)
 1. [CARACTERÍSTICAS](https://github.com/demonio/arp/tree/master/es/caracteristicas.md)
-	* [MÚSculo](https://github.com/demonio/arp/tree/master/es/caracteristicas/musculo.md)
+	* [POTencia](https://github.com/demonio/arp/tree/master/es/caracteristicas/potencia.md)
 	* [VITalidad](https://github.com/demonio/arp/tree/master/es/caracteristicas/vitalidad.md)
 	* [REAcción](https://github.com/demonio/arp/tree/master/es/caracteristicas/reaccion.md)
 	* [PERcepción](https://github.com/demonio/arp/tree/master/es/caracteristicas/percepcion.md)
