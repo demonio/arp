@@ -12,7 +12,8 @@ Los vínculos se generan dimamicamente hacia uno o varios personajes del grupo c
 
 *Inspirado por Dungeon World*
 
-### Aspectos y puntos de destino  
+### Aspectos y puntos de destino
+
 Los aspectos son aquellas peculiaridades que hacen a un personaje, especial bien por sus defectos o virtudes.
 
 ```
