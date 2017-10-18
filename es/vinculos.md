@@ -12,7 +12,7 @@ Los vínculos se generan dimamicamente hacia uno o varios personajes del grupo c
 
 *Inspirado por Dungeon World*
 
-### Aspectos y puntos de destino
+### Aspectos y puntos de destino  
 Los aspectos son aquellas peculiaridades que hacen a un personaje, especial bien por sus defectos o virtudes.
 
 ```
@@ -28,4 +28,4 @@ Si el aspecto es negativo se obtiene un -3 a la acción.
 Se puede rechazar la aplicación de una aspecto negativo gastando un punto de destino.
 ```
 
-*Inspirado en CdB Engine*
+*Inspirado por CdB Engine*
