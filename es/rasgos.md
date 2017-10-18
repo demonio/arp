@@ -8,7 +8,7 @@ En otro eje se ha obtenido 90% en Temerario y por lo tanto un 10% en Calculador.
 Ambos ejes se inclinan hacia un PJ que resulta Predecible en sus acciones y con esta premisa se ha de interpretar.
 
 |             |              |              |
-| :----       | :----        | :----        |
+| ----------- | :----------: | -----------: |
 | [Engañoso]  | [Temerario]  | [Predecible] |
 | [Confiado]  | [Inestable]  | [Indeciso]   |
 | [Optimista] | [Calculador] | [Pesimista]  |
