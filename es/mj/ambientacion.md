@@ -1,7 +1,7 @@
 # ROL Avanzado
 ## Ambientación <sup>v0.1</sup>
 
-ROLA como sistema modular genénerico de pautas, propone una ambientación de ejemplo donde los personajes viejan entre planos desde un plano postapocalíptico.
+ROLA como sistema modular genénerico de pautas, propone una ambientación de ejemplo donde los personajes viajan entre planos desde un plano postapocalíptico.
 
 Los jugadores interpretan heroes de fantasía como mercenarios al servicio de las megacorporaciónes.
 
