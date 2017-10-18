@@ -19,6 +19,11 @@
 	* [REAcción](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/reaccion.md)
 	* [PERcepción](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/percepcion.md)
 	* [INTelecto](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/intelecto.md)
+1. [ATRIBUTOS]
+	* [Heridas]
+	* [Localizaciones](https://github.com/demonio/arp/tree/master/es/pj/atributos/localizaciones.md)
+	* [Aguante]
+	* [Locura]
 1. [HABILIDADES](https://github.com/demonio/arp/tree/master/es/pj/habilidades.md)
 	* [Básicas]
 	* [Especializaciones]
@@ -29,10 +34,6 @@
 1. [DIFICULTAD]
 	* [Figurada]
 	* [Realista]
-1. [ANATOMÍA]
-	* [Localizaciones]
-	* [Heridas]
-	* [Locura]
 1. [MAGIA]
 	* [Alma]
 	* [Aura]
