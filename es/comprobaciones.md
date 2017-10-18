@@ -1,22 +1,32 @@
 # ROL Avanzado
-## Comprobaciones <sup>v0.2</sup>
+## Comprobaciones <sup>v0.3</sup>
 
-En ROLA ofrecemos un sistema modular de comprobaciones. Estos módulos estarán basado en cartas, dados o monedas.
+ROLA ofrece un sistema modular de comprobaciones. Estos módulos estan basado en cartas, dados y/o monedas.
+
+### Cuando se usan dados
+1) Toda las tiradas de dados se realizan previamente y se anotan en la hoja de personaje.  
+Tiramos tantas veces como el nivel de VITaliad. Este número de tiradas representa la fatiga y la tirada en sí, la frescura en la acción.  
+1a) Siempre que realicemos una acción con esmero, resultará fácil. Para ello se borra de la hoja una de las jugadas anotadas y se empleará para indicar las decenas.  
+Si la jugada es un 10, 11 o 12, la acción representa un éxito rotundo pero con consecuencias.
+
+
+A continuación se realiza una tirada para representar las unidades.  
+Si en las únidades 
 
 ### Con dos dados de diez caras (1d100)
-Cuando se saca 0 en ambos dados, hay que volver a lanzar uno de ellos para saber si el resultado es 0 o 100, donde los pares indicarían 0 y los impares, que hemos obtenido un 100.
+Un 0 en ambos dados, puede indicar 0 o 100 y para averiguarlo lanzamos una moneda o dado (donde cara|par será 0 o cruz|impar será 100).
 
-Sabiendo que el nivel del las habilidades de nuestro PJ indica las decenas y el rango las unidades, con estos dos datos ya tenemos nuestro valor porcentual.
-Cuando usamos 2d10 para resolver las acciones de los PJs, un dado nos marcará las decenas y otro las unidades y cuando lancemos estos dados, si la cifra es igual o inferior, obtenemos x éxitos, donde x es la diferencia entre el nivel de habilidad y el resultado obtenido en las decennas.
+El nivel de las habilidades indica las decenas y el rango las unidades, con estos dos datos se tiene un valor porcentual.
+Al usar 2d10 para resolver las acciones de los PJs, un dado marcará las decenas y otro las unidades y cuando lancemos los dados, si la cifra es igual o inferior, se obtiene x éxitos, donde x es la diferencia entre el nivel de habilidad y el resultado obtenido en las decennas.
 Si el número es negativo, este valor nos prejudica a la hora de volver superar el obstaculo o resultará a favor del oponente.
 Si no hemos obtenido ni éxitos ni frecasos, se obtiene una ventaja si la tirada marcó que las unidades son iguales o inferiores al valor del rango de la habilidad. Por el contrario obtendriamos alguna desventaja.
 
 ### Con dos dados de seis caras (2d6)
-Con estos dos dados simpre hay que restarle dos (2d6-2), lanzando por debajo del nivel de habilidad para que nos de en la diferencia el número de éxitos. Y si empatamos volvemos a tirar (2d6-2) por debajo del rango para ver si 
 
 ### Con monedas
-Los números indican cuantas monedas hay que lanzar y éstas nos darán un resultado binario de éxitos o fallos, pero solo nos interesan los éxitos obtenidos para el cálculo final.
+Los números en el nivel de las habilidades indican cuantas monedas hay que lanzar y con ello el número de éxitos obtenidos.
 
 ### Con una baraja Española
+
 
 ### Con una baraja de Poker

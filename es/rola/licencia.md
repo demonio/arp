@@ -6,7 +6,7 @@ El objetivo principal de esta obra en su versión inicial, es que se use y mejor
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-Esto es un resumen inteligible para humanos (y no un sustituto) de la licencia
+Esto es un resumen inteligible para humanos (y no un sustituto) de la licencia.
 
 ### Usted es libre de:
 
