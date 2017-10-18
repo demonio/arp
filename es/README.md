@@ -3,11 +3,11 @@
 
 ### Manual del PJ
 0. [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es/pj/rola.md)
-	* [Licencia](https://github.com/demonio/arp/tree/master/es/rola/pj/licencia.md)
-	* [Glosario](https://github.com/demonio/arp/tree/master/es/rola/pj/glosario.md)
-	* [Semántica](https://github.com/demonio/arp/tree/master/es/rola/pj/semantica.md)
-	* [Metajuego](https://github.com/demonio/arp/tree/master/es/rola/pj/metajuego.md)
-	* [Premisas](https://github.com/demonio/arp/tree/master/es/rola/pj/premisas.md)
+	* [Licencia](https://github.com/demonio/arp/tree/master/es/pj/rola/licencia.md)
+	* [Glosario](https://github.com/demonio/arp/tree/master/es/pj/rola/glosario.md)
+	* [Semántica](https://github.com/demonio/arp/tree/master/es/pj/rola/semantica.md)
+	* [Metajuego](https://github.com/demonio/arp/tree/master/es/pj/rola/metajuego.md)
+	* [Premisas](https://github.com/demonio/arp/tree/master/es/pj/rola/premisas.md)
 1. [DESCRIPCIÓN](https://github.com/demonio/arp/tree/master/es/pj/descripcion.md)
 1. [PERSONALIDAD](https://github.com/demonio/arp/tree/master/es/pj/personalidad.md)
 1. [HITORIAL](https://github.com/demonio/arp/tree/master/es/pj/historial.md)
@@ -45,7 +45,7 @@
 * [VEHICULOS]
 
 ### Manual del MJ
-* [AMBIENTACION DE EJEMPLO](https://github.com/demonio/arp/tree/master/es/mj/ambientacion.md)
+* [AMBIENTACION](https://github.com/demonio/arp/tree/master/es/mj/ambientacion.md)
 * [ÉPOCAS]
 	* [Espada y brujería]
 	* [Conocida]
