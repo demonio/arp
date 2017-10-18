@@ -14,6 +14,8 @@ Ambos ejes indican un personaje que en sus acciones debe ser interpretado un tan
 | [Confiado]  | [Inestable]  | [Indeciso]   |
 | [Optimista] | [Calculador] | [Pesimista]  |
 
+*Inspirado en teorías de psicología*
+
 ### Vínculos entre personajes
 Los vínculos son aquellos detalles que se establecen en la sesión de juego denominada cero donde cada jugador crea su personaje y aquellos vínculos que le une al resto.  
 Los vínculos explican la unión entre los personajes que forman un grupo.

@@ -1,28 +1,28 @@
 # ROL Avanzado
-## Indice <sup>v1.1</sup>
+## Indice <sup>v1.2</sup>
 
 ### Manual del PJ
-0. [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es/rola.md)
-	* [Licencia](https://github.com/demonio/arp/tree/master/es/rola/licencia.md)
-	* [Glosario](https://github.com/demonio/arp/tree/master/es/rola/glosario.md)
-	* [Semántica](https://github.com/demonio/arp/tree/master/es/rola/semantica.md)
-	* [Metajuego](https://github.com/demonio/arp/tree/master/es/rola/metajuego.md)
-	* [Premisas](https://github.com/demonio/arp/tree/master/es/rola/premisas.md)
-1. [DESCRIPCIÓN](https://github.com/demonio/arp/tree/master/es/descripcion.md)
-1. [PERSONALIDAD](https://github.com/demonio/arp/tree/master/es/personalidad.md)
-1. [HITORIAL](https://github.com/demonio/arp/tree/master/es/historial.md)
-1. [RAZA](https://github.com/demonio/arp/tree/master/es/raza.md)
-1. [PROFESIÓN](https://github.com/demonio/arp/tree/master/es/profesion.md)
-1. [CARACTERÍSTICAS](https://github.com/demonio/arp/tree/master/es/caracteristicas.md)
-	* [POTencia](https://github.com/demonio/arp/tree/master/es/caracteristicas/potencia.md)
-	* [VITalidad](https://github.com/demonio/arp/tree/master/es/caracteristicas/vitalidad.md)
-	* [REAcción](https://github.com/demonio/arp/tree/master/es/caracteristicas/reaccion.md)
-	* [PERcepción](https://github.com/demonio/arp/tree/master/es/caracteristicas/percepcion.md)
-	* [INTelecto](https://github.com/demonio/arp/tree/master/es/caracteristicas/intelecto.md)
-1. [HABILIDADES](https://github.com/demonio/arp/tree/master/es/habilidades.md)
+0. [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es/pj/rola.md)
+	* [Licencia](https://github.com/demonio/arp/tree/master/es/rola/pj/licencia.md)
+	* [Glosario](https://github.com/demonio/arp/tree/master/es/rola/pj/glosario.md)
+	* [Semántica](https://github.com/demonio/arp/tree/master/es/rola/pj/semantica.md)
+	* [Metajuego](https://github.com/demonio/arp/tree/master/es/rola/pj/metajuego.md)
+	* [Premisas](https://github.com/demonio/arp/tree/master/es/rola/pj/premisas.md)
+1. [DESCRIPCIÓN](https://github.com/demonio/arp/tree/master/es/pj/descripcion.md)
+1. [PERSONALIDAD](https://github.com/demonio/arp/tree/master/es/pj/personalidad.md)
+1. [HITORIAL](https://github.com/demonio/arp/tree/master/es/pj/historial.md)
+1. [RAZA](https://github.com/demonio/arp/tree/master/es/pj/raza.md)
+1. [OCUPACIÓN](https://github.com/demonio/arp/tree/master/es/pj/ocupacion.md)
+1. [CARACTERÍSTICAS](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas.md)
+	* [POTencia](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/potencia.md)
+	* [VITalidad](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/vitalidad.md)
+	* [REAcción](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/reaccion.md)
+	* [PERcepción](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/percepcion.md)
+	* [INTelecto](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/intelecto.md)
+1. [HABILIDADES](https://github.com/demonio/arp/tree/master/es/pj/habilidades.md)
 	* [Básicas]
 	* [Especializaciones]
-1. [COMPROBACIONES](https://github.com/demonio/arp/tree/master/es/comprobaciones.md)
+1. [COMPROBACIONES](https://github.com/demonio/arp/tree/master/es/pj/comprobaciones.md)
 	* [Cartas]
 	* [Dados]
 	* [Monedas]
@@ -45,7 +45,7 @@
 * [VEHICULOS]
 
 ### Manual del MJ
-* [AMBIENTACION DE EJEMPLO]
+* [AMBIENTACION DE EJEMPLO](https://github.com/demonio/arp/tree/master/es/mj/ambientacion.md)
 * [ÉPOCAS]
 	* [Espada y brujería]
 	* [Conocida]

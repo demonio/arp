@@ -1,5 +1,5 @@
 # ROL Avanzado
-## Profesión <sup>v0.1</sup>
+## Ocupación <sup>v0.1</sup>
 
 En ROLA no hay clases, profesiones u ocupaciones como tal. Los personajes desarrollan sus habilidades conforme a sus nociones en una materia. Cuando hemos mostrado interes por aprender algo durante unas pocas semanas, adquirimos un rango en una habilidad y un nivel si el entrenamiento, estudio o trabajo supera un año.
 
