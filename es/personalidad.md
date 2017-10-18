@@ -1,6 +1,20 @@
 # ROL Avanzado
-## Vínculos <sup>v0.1</sup>
+## Personalidad <sup>v0.1</sup>
 
+### Actitud por defecto
+La tabla de rasgos indica la personalidad del personaje a la hora de actuar.   
+Tira 2d100, uno por cada eje; Confiado vs Indeciso y Temerario vs Calculador.  
+Ejemplo: Se ha lanzado 1d100 obteniendo un 37% en Confiado (63% en Indeciso).  
+En el otro eje se ha obtenido un 90% en Temerario (10% en Calculador).  
+Ambos ejes indican un personaje que en sus acciones debe ser interpretado un tanto Predecible.
+
+|             |              |              |
+| ----------- | :----------: | -----------: |
+| [Engañoso]  | [Temerario]  | [Predecible] |
+| [Confiado]  | [Inestable]  | [Indeciso]   |
+| [Optimista] | [Calculador] | [Pesimista]  |
+
+### Vínculos entre personajes
 Los vínculos son aquellos detalles que se establecen en la sesión de juego denominada cero donde cada jugador crea su personaje y aquellos vínculos que le une al resto.  
 Los vínculos explican la unión entre los personajes que forman un grupo.
 
@@ -13,7 +27,6 @@ Los vínculos se generan dimamicamente hacia uno o varios personajes del grupo c
 *Inspirado por Dungeon World*
 
 ### Aspectos y puntos de destino
-
 Los aspectos son aquellas peculiaridades que hacen a un personaje, especial bien por sus defectos o virtudes.
 
 ```
