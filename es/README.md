@@ -1,16 +1,17 @@
 # ROL Avanzado
-## Indice <sup>v1.0</sup>
-### Creación del personaje
+## Indice <sup>v1.1</sup>
 
+### Manual del PJ
 0. [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es/rola.md)
 	* [Licencia](https://github.com/demonio/arp/tree/master/es/rola/licencia.md)
 	* [Glosario](https://github.com/demonio/arp/tree/master/es/rola/glosario.md)
 	* [Semántica](https://github.com/demonio/arp/tree/master/es/rola/semantica.md)
 	* [Metajuego](https://github.com/demonio/arp/tree/master/es/rola/metajuego.md)
-1. [Descripción](https://github.com/demonio/arp/tree/master/es/descripcion.md)
-1. [Rasgos](https://github.com/demonio/arp/tree/master/es/rasgos.md)
-1. [Vínculos]
-1. [Historial](https://github.com/demonio/arp/tree/master/es/historial.md)
+	* [Premisas](https://github.com/demonio/arp/tree/master/es/rola/premisas.md)
+1. [DESCRIPCIÓN](https://github.com/demonio/arp/tree/master/es/descripcion.md)
+1. [RASGOS](https://github.com/demonio/arp/tree/master/es/rasgos.md)
+1. [VÍNCULOS](https://github.com/demonio/arp/tree/master/es/vinculos.md)
+1. [HITORIAL](https://github.com/demonio/arp/tree/master/es/historial.md)
 1. [RAZA](https://github.com/demonio/arp/tree/master/es/raza.md)
 1. [PROFESIÓN](https://github.com/demonio/arp/tree/master/es/profesion.md)
 1. [CARACTERÍSTICAS](https://github.com/demonio/arp/tree/master/es/caracteristicas.md)
@@ -39,18 +40,17 @@
 	* [Artefactos]
 	* [Runas]
 
-### Objetos y vehiculos
-* [ARMADURAS]
-* [ARMAS]
+### Manual de atrezo
+* [ARMADURAS Y ARMAS]
 * [EQUIPO]
 * [VEHICULOS]
 
-### Antagonistas y planos de existencia
-* [ANTAGONISTAS]
-* [EPOCAS]
+### Manual del MJ
+* [AMBIENTACION DE EJEMPLO]
+* [ÉPOCAS]
 	* [Espada y brujería]
 	* [Conocida]
 	* [Apocalipsis]
 	* [Ciencia ficcion]
-* [PLANOS]
-* [PORTALES]
+* [PLANOS Y PORTALES]
+* [PNJs]
