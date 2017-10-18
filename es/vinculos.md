@@ -12,7 +12,7 @@ Los vínculos se generan dimamicamente hacia uno o varios personajes del grupo c
 
 *Inspirado por Dungeon World*
 
-### Aspectos y puntos de destino
+### Aspectos y puntos de destino
 
 Los aspectos son aquellas peculiaridades que hacen a un personaje, especial bien por sus defectos o virtudes.
 
@@ -22,11 +22,11 @@ El jugador de la derecha, crea una frase con un aspecto negativo para este perso
 El jugador de la izquierda, crea una frase con un aspecto positivo para este personaje.  
 
 El personaje empieza con 3 puntos de destino.
-Se puede emplear un aspecto negativo para ganar un punto de destino.
-Se puede gastar un punto de destino para invocar un aspecto positivo o negativo de otro personaje.  
+Se puede emplear un aspecto negativo para ganar 1 punto de destino.
+Se puede gastar 1 punto de destino para invocar un aspecto positivo o negativo de otro personaje.  
 El personaje recibe +3 en la acción a realizar donde el aspecto positivo tenga sentido.
 Si el aspecto es negativo se obtiene un -3 a la acción.
-Se puede rechazar la aplicación de una aspecto negativo gastando un punto de destino.
+Se puede rechazar la aplicación de una aspecto negativo gastando 1 punto de destino.
 ```
 
 *Inspirado por CdB Engine*
