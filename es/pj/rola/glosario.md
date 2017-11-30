@@ -1,5 +1,5 @@
 # ROL Avanzado
-## Glosario <sup>v0.3</sup>
+## Glosario <sup>v0.4</sup>
 
 En esta sección explicamos los terminos que manejamos a lo largo y ancho del manual, con el fin de que este sea lo más corto posible como comprensible.
 
@@ -7,21 +7,23 @@ En esta sección explicamos los terminos que manejamos a lo largo y ancho del ma
 * [ARP] Advanced RolePlaying.
 * [Bonus] Bonificación númerica. 
 * [BRP] Basic RolePlaying.
-* [INT] El atributo de INTelecto.
+* [EMP] La característica de EMPatía.
+* [INT] La característica de INTeligencia.
 * [Jugada] Cuando se juega un carta.
 * [Malus] Penalización númerica. 
 * [MJ] Maestro del Juego.
-* [MUS] El atributo de MÚSculo.
-* [Nivel] Un numero del 0 al 9, donde cada incremento representa un año de experiencia en algo.
-* [PER] El atributo de PERcepción.
+* [MUS] La característica de MÚSculo.
+* [Nivel] Un numero del 0 al 9, año de experiencia y las decenas que forman el porcentaje de éxito.
+* [PER] La característica de PERcepción.
 * [PJ] Personaje Jugador.
 * [PNJ] Personaje No Jugador.
-* [Rango] Un numero del 0 al 9, donde cada incremento representa (un mes y seis días) de nociones en algo.
+* [PRE] La característica de PREsencia.
+* [Rango] Un numero del 0 al 9, mes de experiencia y las unidades que forman el porcentaje de éxito.
 * [REA] REAcción.
 * [ROLA] ROL Avanzado, traducción de ARP.
 * [Valor de habilidad] Un número del 0 al 99, donde las decenas representan el nivel y las unidades los rangos.
 * [Tirada] El lanzamiento de dos dados de diez caras (2d10).
-* [VIT] El atributo de VITalidad.
+* [VIT] La característica de VITalidad.
 * [1d100] Un dado de cien caras o dos de diez caras, donde uno indica las decenas y el otro las unidades. 
 * [2d10] Dos dados de diez caras.
 * [2d6] Dos dados de seis caras.
