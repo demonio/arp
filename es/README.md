@@ -41,7 +41,7 @@
 	* [Alma]
 	* [Aura]
 	* [Artefactos]
-	* [Runas]
+	* [Módulo de Runas](https://github.com/demonio/arp/tree/master/es/pj/magia/runas.md)
 
 ### Manual de atrezo
 * [ARMADURAS Y ARMAS]
