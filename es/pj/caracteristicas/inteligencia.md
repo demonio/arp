@@ -1,6 +1,6 @@
 # ROL Avanzado
-## INTeligencia <sup>v0.3</sup>
+## INTeligencia <sup>v0.4</sup>
 
-La INTeligencia es la característica más ambigua de todos, pero que resuelve cosas como la capacidad de memorizar hechizos y otras acciones que el jugador NO puede llevar a cabo.
+La INTeligencia solo debería ser relevante allí donde el cálculo y la memoria es un requisito principal.
 
-La mayoría de situaciones que requieran conocimiento, comunicación o idea, se resuelve automaticamente en función de la capacidad de rolear del jugador. NO se quiere eclipsar las capacidades del jugador ni que se impongan las tiradas / jugadas sobre la acción de rolear.
+Las situaciones que requieran conocimiento, comunicación o idea, se resuleven por otra via, aunque normalemte la acción de rolear del jugador, debería ser suficiente.
