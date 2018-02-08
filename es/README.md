@@ -21,7 +21,7 @@
 1. [CARACTERÍSTICAS](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas.md)
 	* [POTencia](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/potencia.md)
 	* [VITalidad](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/vitalidad.md)
-	* [REAcción](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/reaccion.md)
+	* [SINcronización](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/sincronizacion.md)
 	* [PERcepción](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/percepcion.md)
 	* [INTeligencia](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/inteligencia.md)
 	* [INFluencia](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/influencia.md)
