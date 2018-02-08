@@ -3,11 +3,6 @@
 
 Las características resuelven situaciones con un resultado general y las habilidades un resultado más preciso.
 
-| Esfuerzo | 100% de físico | 75% de físico y 25% de mente | 50% de físico y mente | 25% de físico y 75% de mente | 0% de físico | 
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| **Se emplea** | Músculo | Corazón y pulmón | Impulso eléctrico | Los sentidos | El cerebro |
-| **Característica** | POTencia | VITalidad | SINcronización | PERcepción | INTeligencía |
-
 Tira por orden las características, pues es así como naciste, resultado del azar.
 
 Por cada una puedes tirar 1d4+3, 4 monedas y le sumas 3 o sacar cartas o fichas entre un rango de 4 y 7.

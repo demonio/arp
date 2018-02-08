@@ -1,5 +1,5 @@
 # ROL Avanzado
-## Indice <sup>v1.3</sup>
+## Indice <sup>v1.4</sup>
 
 ### Manual del PJ
 0. [¿QUÉ ES ROLA?](https://github.com/demonio/arp/tree/master/es/pj/rola.md)
@@ -19,13 +19,12 @@
 1. [RAZA](https://github.com/demonio/arp/tree/master/es/pj/raza.md)
 1. [OCUPACIÓN](https://github.com/demonio/arp/tree/master/es/pj/ocupacion.md)
 1. [CARACTERÍSTICAS](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas.md)
-	* [PREsencia](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/presencia.md)
 	* [POTencia](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/potencia.md)
 	* [VITalidad](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/vitalidad.md)
 	* [REAcción](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/reaccion.md)
 	* [PERcepción](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/percepcion.md)
 	* [INTeligencia](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/inteligencia.md)
-	* [EMPatía](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/empatia.md)
+	* [INFluencia](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas/influencia.md)
 1. [ATRIBUTOS]
 	* [Heridas]
 	* [Anatomía](https://github.com/demonio/arp/tree/master/es/pj/atributos/anatomia.md)
