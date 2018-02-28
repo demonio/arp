@@ -1,13 +1,14 @@
 # ROL Avanzado
-## Módulo de Runas <sup>v0.3</sup>
+## Módulo de Runas <sup>v0.4</sup>
 
 ### Descripción
 Las runas son escritas en objetos o zonas por los hechiceros más experimentados para encerrar un poder en ellas.
 
 ### Runas
-| Runa                                                              | Efecto                           |
-| :---------------------------------------------------------------- | :------------------------------- |
-| ![TOCAR](https://rola.multisitio.es/img/jdr/runas/tocar.mini.png) | Movimiento de energia adyacente. |
+| Runa                                                            | Efecto                    |
+| :-------------------------------------------------------------- | :------------------------ |
+| ![](https://rola.multisitio.es/img/jdr/runas/tocar.mini.png)    | Desplazamiento adyacente. |
+| ![](https://rola.multisitio.es/img/jdr/runas/disparar.mini.png) | Desplazamiento disparado. |
 
 ### Reglas
 * Las escritas en zonas representan un encantamiento que solo se rompe con magia para tal efecto.
