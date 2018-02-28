@@ -5,9 +5,9 @@
 Las runas son escritas en objetos o zonas por los hechiceros más experimentados para encerrar un poder en ellas.
 
 ### Runas
-| Runa                                                                | Efecto                           |
-| :------------------------------------------------------------------ | :------------------------------- |
-| ![TOCAR](https://rola.multisitio.es/img/jdr/runas/tocar.png =45x64) | Movimiento de energia adyacente. |
+| Runa                                                              | Efecto                           |
+| :---------------------------------------------------------------- | :------------------------------- |
+| ![TOCAR](https://rola.multisitio.es/img/jdr/runas/tocar.mini.png) | Movimiento de energia adyacente. |
 
 ### Reglas
 * Las escritas en zonas representan un encantamiento que solo se rompe con magia para tal efecto.
