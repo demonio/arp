@@ -11,9 +11,11 @@ Como mínimo nuestro [Nivel] (las decenas) en cada característica estará entre
 
 Para establecer el [Rango] (las unidades) de las características se tira 1d10, 10 monedas o se muestran cartas o fichas entre un rango de 0 y 9. (El joker en la mesa siempre puntúa como 0 y las figuras o resultados de 10, 11 y 12 no cuentan).
 
-* Potencia
-* Vitalidad
-* Sincronización
-* Percepción
-* Inteligencia
-* Infuencia
+| [Característica] | [Color]  | [Gema]    |
+| :--------------- | :------- | :-------- |
+| Potencia         | Rojo     | Rubí      |
+| Vitalidad        | Amarillo |           |
+| Sincronizacion   | Verde    | Esmeralda |
+| Percepción       | Cian     |           |
+| Inteligencia     | Azul     | Zafiro    |
+| Influencia       | Magenta  |           |
