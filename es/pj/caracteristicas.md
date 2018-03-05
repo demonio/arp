@@ -14,8 +14,8 @@ Para establecer el [Rango] (las unidades) de las características se tira 1d10, 
 | [Característica] | [Color]  | [Gema]    |
 | :--------------- | :------- | :-------- |
 | Potencia         | Rojo     | Rubí      |
-| Vitalidad        | Amarillo |           |
+| Vitalidad        | Amarillo |           |
 | Sincronizacion   | Verde    | Esmeralda |
-| Percepción       | Cian     |           |
-| Inteligencia     | Azul     | Zafiro    |
-| Influencia       | Magenta  |           |
+| Percepción       | Cian     |           |
+| Inteligencia     | Azul     | Zafiro    |
+| Influencia       | Magenta  |           |
