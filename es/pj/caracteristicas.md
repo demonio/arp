@@ -1,5 +1,5 @@
 # ROL Avanzado
-## Características <sup>v0.6</sup>
+## Características <sup>v0.7</sup>
 
 Las características resuelven situaciones con un resultado general y las habilidades un resultado más preciso.
 
@@ -10,3 +10,10 @@ Por cada una puedes tirar 1d4+3, 4 monedas y le sumas 3 o sacar cartas o fichas 
 Como mínimo nuestro [Nivel] (las decenas) en cada característica estará entre 4 y 7.
 
 Para establecer el [Rango] (las unidades) de las características se tira 1d10, 10 monedas o se muestran cartas o fichas entre un rango de 0 y 9. (El joker en la mesa siempre puntúa como 0 y las figuras o resultados de 10, 11 y 12 no cuentan).
+
+* Potencia
+* Vitalidad
+* Sincronización
+* Percepción
+* Inteligencia
+* Infuencia
