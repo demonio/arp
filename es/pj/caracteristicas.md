@@ -19,4 +19,4 @@ Para establecer el [Rango] (las unidades) de las características se tira 1d10, 
 | PERcepción     | Cian     | Aguamarina | Sentidos            | SABiduría    |
 | INTeligencia   | Azul     | Zafiro     | Cálculo y memoria   | INTeligencia |
 | INFluencia     | Magenta  | Morganita  | Expresión conjunta  | CARisma      |
-> * La equivalencia solo refleja una proximación valida de compatibilidad.
+> * Las características equivalentes solo nos aportan un número compatible.
