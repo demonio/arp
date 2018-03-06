@@ -11,11 +11,12 @@ Como mínimo nuestro [Nivel] (las decenas) en cada característica estará entre
 
 Para establecer el [Rango] (las unidades) de las características se tira 1d10, 10 monedas o se muestran cartas o fichas entre un rango de 0 y 9. (El joker en la mesa siempre puntúa como 0 y las figuras o resultados de 10, 11 y 12 no cuentan).
 
-| [Característica] | [Color]  | [Gema]    |
-| :--------------- | :------- | :-------- |
-| Potencia         | Rojo     | Rubí      |
-| Vitalidad        | Amarillo |           |
-| Sincronizacion   | Verde    | Esmeralda |
-| Percepción       | Cian     |           |
-| Inteligencia     | Azul     | Zafiro    |
-| Influencia       | Magenta  |           |
+| Característica | Color    | Gema       | Usa                 | Equivalencia | 
+| :------------- | :------- | :--------- | :------------------ | :----------- |
+| POTencia       | Rojo     | Rubí       | Músculo             | FUErza       |
+| VITalidad      | Amarillo | Topacio    | Corazon y pulmones  | CONstitución |
+| SINcronizacion | Verde    | Esmeralda  | Estímulo eléctrico  | DEStreza     |
+| PERcepción     | Cian     | Aguamarina | Sentidos            | SABiduría    |
+| INTeligencia   | Azul     | Zafiro     | Cálculo y memoria   | INTeligencia |
+| INFluencia     | Magenta  | Morganita  | Expresión conjunta  | CARisma      |
+> * La equivalencia solo refleja una proximación valida de compatibilidad.
