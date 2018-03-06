@@ -14,7 +14,7 @@ Para establecer el [Rango] (las unidades) de las características se tira 1d10, 
 | Característica | Color    | Gema       | Usa                 | Equivalencia | 
 | :------------- | :------- | :--------- | :------------------ | :----------- |
 | POTencia       | Rojo     | Rubí       | Músculo             | FUErza       |
-| VITalidad      | Amarillo | Topacio    | Corazon y pulmones  | CONstitución |
+| VITalidad      | Amarillo | Topacio    | Corazón y pulmones  | CONstitución |
 | SINcronizacion | Verde    | Esmeralda  | Estímulo eléctrico  | DEStreza     |
 | PERcepción     | Cian     | Aguamarina | Sentidos            | SABiduría    |
 | INTeligencia   | Azul     | Zafiro     | Cálculo y memoria   | INTeligencia |
