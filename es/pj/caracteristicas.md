@@ -1,5 +1,5 @@
 # ROL Avanzado
-## Características <sup>v0.7</sup>
+## Características <sup>v0.8</sup>
 
 Las características resuelven situaciones con un resultado general y las habilidades un resultado más preciso.
 
