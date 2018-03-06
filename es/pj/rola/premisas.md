@@ -1,5 +1,5 @@
 # ROL Avanzado
-## Premisas <sup>v0.1</sup>
+## Premisas <sup>v0.2</sup>
 
 ### Sencillo sin perder detalle
 A rasgos generales ROLA es Un BRP con grados de éxitos y mecánicas narrativas.
@@ -12,3 +12,6 @@ ROLA ofrece un conjunto de pautas modulares para que la mesa pueda elegir como r
 
 ### Dinámico
 ROLA pone a disposioción de la mesa unas mecánicas para crear una sensación de juego en tiempo real.
+
+### Compatible
+Con ciertas equivalencias en las reglas se pretende poder jugar cualquier módulo de otro juego.
