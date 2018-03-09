@@ -1,1 +1,1 @@
-<span class="valign-wrapper">![Logo](https://rola.multisitio.es/img/jdr/logo.png)</span>
+<span class="center-xy">![Logo](https://rola.multisitio.es/img/jdr/logo.png)</span>
