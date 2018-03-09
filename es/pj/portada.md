@@ -1,1 +1,1 @@
-![](https://rola.multisitio.es/img/jdr/portada.jpg)
+![Portada](https://rola.multisitio.es/img/jdr/portada.jpg)
