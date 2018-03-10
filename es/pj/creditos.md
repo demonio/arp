@@ -2,6 +2,7 @@
 
 Creditos
 ========
+
 *Diseño y redacción:* Raúl Montejano Rodríguez «demonio».
 *Ilustraciones:* Enmanuel Martinez Lema.
 *Maquetación:* Raúl Montejano Rodríguez «demonio».
