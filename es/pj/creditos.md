@@ -9,7 +9,7 @@ Creditos
 **Corrección:** Raúl Montejano Rodríguez «demonio».  
 **Pruebas y revisión:**   
 **Edición:** Raúl Montejano Rodríguez «demonio».  
-**Influencias y agradecimientos:** Son muchas las influencias y agracedimientos que me han llevado a crear este sistema y ambientación, que se hace imposible nombrarlos a todos sin dejarme a nadie, por lo que preferido generalizar. A todos ellos gracias.
+**Mención especial:** 
 
 </span>
 
