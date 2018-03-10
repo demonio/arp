@@ -1,4 +1,5 @@
 <span class="center-xy marco-l">
+
 Creditos
 ========
 *Diseño y redacción:* Raúl Montejano Rodríguez «demonio».
@@ -8,6 +9,7 @@ Creditos
 *Pruebas y revisión:* 
 *Edición:* Raúl Montejano Rodríguez «demonio».
 *Influencias y agradecimientos:* Son muchas las influencias y agracedimientos que me han llevado a crear este sistema y ambientación, que se hace imposible nombrarlos a todos sin dejarme a nadie, por lo que preferido generalizar. A todos ellos gracias.
+
 </span>
 
 *Depósito legal:* M-55555-4444
