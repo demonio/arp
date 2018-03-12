@@ -11,5 +11,3 @@ Creditos
 **Mención especial:**  
 **Depósito legal:** M-55555-4444  
 **ISNB:** 333-22-666666-1-1
-
-<span data-center="xy" data-bg="left"></span>
