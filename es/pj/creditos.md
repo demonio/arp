@@ -1,4 +1,4 @@
- <pre class="center-xy marco-l">
+<pre class="center-xy marco-l">
 
 Creditos
 ========
