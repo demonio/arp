@@ -1,4 +1,4 @@
-<summary class="center-xy marco-l">
+<div class="center-xy marco-l">
 
 Creditos
 ========
@@ -11,7 +11,7 @@ Creditos
 **Edición:** Raúl Montejano Rodríguez «demonio».  
 **Mención especial:** 
 
-</summary>
+</div>
 
 **Depósito legal:** M-55555-4444
 **ISNB:** 333-22-666666-1-1
