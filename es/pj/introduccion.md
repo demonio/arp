@@ -14,4 +14,4 @@ Además trae consigo la forma de hacer compatible cualquier otro sistema de regl
 
 Esta versión del juego es CC-0, la licencia más abierta posibe, lista para su difusión, utilización y venta con o sin cambios, ni mención. Cada nueva versión se creará con una licencia cada vez más cerrada.
 
-<span class="center-align">![CC0](https://rola.multisitio.es/img/jdr/cc0.png)</span>
+<span class="center-x">![CC0](https://rola.multisitio.es/img/jdr/cc0.png)</span>
