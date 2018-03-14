@@ -8,6 +8,8 @@ Creditos
 **Corrección:** Raúl Montejano Rodríguez «demonio».  
 **Pruebas y revisión:**   
 **Edición:** Raúl Montejano Rodríguez «demonio».  
-**Mención especial:**  
+**Influencias:** Estrellas Errantes  
 **Depósito legal:** M-55555-4444  
 **ISNB:** 333-22-666666-1-1
+
+<span data-content="center-xy"></span>
