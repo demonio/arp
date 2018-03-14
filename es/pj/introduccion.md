@@ -12,4 +12,4 @@ Está pensado para jugarse en cualquier otra ambientación como si fuera el plan
 
 Esta versión del juego es CC-0, la licencia más abierta posibe, lista para su difusión, utilización y venta con o sin cambios, ni mención. Cada nueva versión se creará con una licencia cada vez más cerrada.
 
-![CC0](https://rola.multisitio.es/img/jdr/cc0.png)
+<span class="center-align">![CC0](https://rola.multisitio.es/img/jdr/cc0.png)</span>
