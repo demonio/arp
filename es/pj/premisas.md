@@ -2,6 +2,8 @@
 Premisas
 ========
 
+La experiencia de juego que puede aportar este manual está basado en los siguientes puntos:
+
 * **Sencillo sin perder detalle.** A rasgos generales ROLA es un juego porcentual con grados de éxitos y mecánicas narrativas.
 
 * **Con sentido.**
