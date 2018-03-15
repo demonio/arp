@@ -15,13 +15,13 @@ Premisas
 A rasgos generales ROLA es un juego porcentual con grados de éxitos y mecánicas narrativas.
 
 ### Con sentido
-ROLA pretende transmitir una sensación de realismo con unas mecánicas sencillas que no den lugar a situaciones injustas o mal interpretadas.
+Se pretende transmitir una sensación de realismo con unas mecánicas sencillas que no den lugar a situaciones injustas o mal interpretadas.
 
 ### Multiopción
-ROLA ofrece un conjunto de pautas modulares para que la mesa pueda elegir como resolver una misma cosas con diferentes opciones.
+ROLA ofrece un conjunto de pautas modulares para que la mesa pueda elegir como resolver una misma situación con diferentes elementos de azar.
 
 ### Dinámico
-Algunas mecánicas de ROLA tratan de recrear una sensación de juego en tiempo real.
+Algunas mecánicas en ROLA tratan de recrear una sensación de juego en tiempo real.
 
 ### Compatible
-ROLA pretende poder jugar cualquier aventura de otro juego con el módulo de conversiones.
+Se pretende poder jugar cualquier aventura de otro juego de ROL con ciertas conversiones y equivalencias.
