@@ -10,7 +10,9 @@ ROL Avanzado es un juego de ROL genérico y modular que entrega consigo una semi
 
 Los jugadores se convierten en personajes en busca de respuestas, a la par que luchan por sobrevivir, adaptandose al mundo que les ha tocado vivir.
 
-Además trae consigo la forma de hacer compatible cualquier otro sistema de reglas.
+Este es el manual del PJ (Personaje Jugador), donde encontrarás todo lo necesario para crear tu personaje y unas reglas para empezar a jugar.
+
+Además trae consigo la forma de convertir y usar las reglas de cualquier otro juego de ROL.
 
 Esta versión del juego es CC-0, la licencia más abierta posibe, lista para su difusión, utilización y venta con o sin cambios, ni mención.
 
