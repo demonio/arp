@@ -6,4 +6,4 @@
 1. [Introducción](https://github.com/demonio/arp/tree/master/es/pj/introduccion.md)
 1. [Premisas](https://github.com/demonio/arp/tree/master/es/pj/premisas.md)
 1. [Requisitos](https://github.com/demonio/arp/tree/master/es/pj/requisitos.md)
-1. [Características](https://github.com/demonio/arp/tree/master/es/pj/caracteriticas.md)
+1. [Características](https://github.com/demonio/arp/tree/master/es/pj/caracteristicas.md)
