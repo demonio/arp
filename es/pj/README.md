@@ -4,3 +4,4 @@
 1. [Créditos](https://github.com/demonio/arp/tree/master/es/pj/creditos.md)
 1. [Índice](https://github.com/demonio/arp/tree/master/es/pj/indice.md)
 1. [Introducción](https://github.com/demonio/arp/tree/master/es/pj/introduccion.md)
+1. [Requisitos](https://github.com/demonio/arp/tree/master/es/pj/requisitos.md)
