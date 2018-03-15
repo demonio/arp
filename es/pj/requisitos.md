@@ -2,7 +2,7 @@
 Requisitos
 ==========
 
-Puedes jugar a ROL Avanzado (ROLA), con este manual, papel, lapiz y cualquier elemento de azar (monedas, dados, cartas, fichas de domino, etcétera).
+Puedes jugar a ROL Avanzado (ROLA), con este manual, la hoja de personaja de la contraportada fotocopiada para cada jugador, lapiz y cualquier elemento de azar (monedas, dados, cartas, fichas de domino, etcétera).
 
 De dos jugadores en adelante, donde un jugador hará de GM (Guardian Multisitio) y los demás de PJ (Personaje Jugador).
 
