@@ -16,7 +16,7 @@ _[Verde] [Esmeralda] [DEStreza]_
 * **PER**cepción. Los cinco sentidos puestos en escena, ver, tocar, oler, oir y degustar, incluso un sexto sentido, intuir.  
 _[Cian] [Aguamarina] [SABiduría]_
 
-* **INT**eligencia. La parte del cerebro encargada del cálculo y la memoria es lo que agrupa esta característica.  
+* **LÓG**ica. Es la parte del cerebro encargada de la razón, cálculo y memoria.  
 _[Azul] [Zafiro] [INTeligencia]_
 
 * **INF**luencia. Nuestra imponente presencia es solo una ayuda a la dominación que ejercemos sobre los demás con nuestra persuasión y control de masas.  
