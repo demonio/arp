@@ -9,8 +9,8 @@ La experiencia de juego que puede aportar este manual está basado en los siguie
 * **Coherente.**
 Se pretende transmitir una sensación de realismo con unas mecánicas sencillas que no den lugar a situaciones injustas o mal interpretadas.
 
-* **Multiopción.** ROLA ofrece un conjunto de pautas modulares para que la mesa pueda elegir como resolver una misma situación con diferentes elementos de azar.
-
-* **Dinámico.** Algunas mecánicas en ROLA tratan de recrear una sensación de juego en tiempo real.
+* **Modular.** El ROLA ofrecemos un nucleo para jugar con lo mínimo y además añadimos unas pautas para hacer una misma cosas de diferente forma, como el el sistema que usaremos de azar, que se podrá elegir en cada sesión de juego. Incluso, hay mecánicas que tratan de recrear una sensación de juego en tiempo real y otros efectos interesantes.
 
 * **Compatible.** Se pretende poder jugar cualquier aventura de otro juego de ROL con ciertas conversiones y equivalencias.
+
+* **Rápido.** Con una única tirada sabras el resultado de un ataque, tanto si inflinges daño como si recibes y cuanto.
