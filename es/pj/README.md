@@ -10,3 +10,4 @@
 1. [Atributos](https://github.com/demonio/arp/tree/master/es/pj/atributos.md)
 1. [Comprobaciones](https://github.com/demonio/arp/tree/master/es/pj/comprobaciones.md)
 1. [Semántica](https://github.com/demonio/arp/tree/master/es/pj/semantica.md)
+1. [Ventajas y desventajas](https://github.com/demonio/arp/tree/master/es/pj/des_ventajas.md)
