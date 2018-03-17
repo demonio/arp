@@ -12,7 +12,7 @@ Los atributos son los rasgos asociados a las características. En programación 
 
 * **PER**cepción. Puntos de poder (puntos de magia, cansancio mental).
 
-* **RAZón. Puntos de cordura (los muertos vivientes carecen de esta característica y atributo).
+* **RAZ**ón. Puntos de cordura (los muertos vivientes carecen de esta característica y atributo).
 
 * **INF**luencia. Puntos de cohesión (aceptación entre iguales, reputación, fama).
 
