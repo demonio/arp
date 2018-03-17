@@ -19,5 +19,5 @@ _[Cian] [Aguamarina] [SABiduría]_
 * **LÓG**ica. Es la parte del cerebro encargada de la razón, cálculo y memoria.  
 _[Azul] [Zafiro] [INTeligencia]_
 
-* **INF**luencia. Nuestra imponente presencia es solo una ayuda a la dominación que ejercemos sobre los demás con nuestra persuasión y control de masas.  
+* **INF**luencia. El liderazgo, la oratoria, la capacidad de persuadir y de embaucar.
 _[Magenta] [Morganita] [CARisma]_

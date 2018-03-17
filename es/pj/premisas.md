@@ -14,3 +14,6 @@ Se pretende transmitir una sensación de realismo con unas mecánicas sencillas 
 * **Compatible.** Se pretende poder jugar cualquier aventura de otro juego de ROL con ciertas conversiones y equivalencias.
 
 * **Rápido.** Con una única tirada sabras el resultado de un ataque, tanto si inflinges daño como si recibes y cuanto.
+
+* **Fácil.** ROLA usa una regla para todo en vez de, para todo una regla. La fórmula es semántica y no necesita traducción ni testeo, porque está basada en porcentajes, pero con una vuelta, para no tirar por debajo:  
+**Grados de éxito/fracaso = (Tirada-Mitad del dado empleado) +/- Diferencia de nivel**
