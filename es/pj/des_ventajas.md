@@ -1,6 +1,6 @@
 
-Ventajas y desventajas
-======================
+Des/Ventajas
+============
 
 Hay situaciones que la interpretación previa a la acción de nuestro personaje en la escena, nos permite ganar una ventaja. Siempre y cuando en la ficción tenga sentido y las condiciones y el GM lo permitan.
 
