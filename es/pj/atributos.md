@@ -16,4 +16,4 @@ Los atributos son los rasgos asociados a las características. En programación 
 
 * **INF**luencia. Puntos de cohesión (aceptación entre iguales, reputación, fama).
 
-Estos atributos reflejan es estado temporal de la caractérista. Si alguno de estos atributos llegar a estar a cero o menos, el personaje se desploma y se debate entra la vida y la muerte tirando por momentos en un tabla de consecuecias permanentes.
+Estos atributos reflejan es estado temporal de la caractéristica. Si alguno de estos atributos llegar a estar a cero o menos, el personaje se desploma y se debate entra la vida y la muerte tirando por momentos en un tabla de consecuecias permanentes.
