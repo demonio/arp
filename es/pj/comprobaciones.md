@@ -2,7 +2,7 @@
 Comprobaciones
 ==============
 
-Practicamente todas las tiradas las realiza el jugador. Siempre y cuando hay que resolver una acción que suponga un reto superarla. Una sola tirada refleja todo; si evitamos o recibimos daño, si inflingimos daño y cuanto, donde nos golpean o como de bien o mal superamos un obstáculo.
+Casi todas las tiradas las realiza el jugador siempre y cuando haya que resolver una acción que suponga un reto superarla. Una sola tirada refleja todo; esquiva, cuanto daño hacemos o recibimos, donde y si además ganamos o perdemos tiempo, distancia o algún otro recurso.
 
 1. **Percepción.** Lo primero es detectar la amenza, si la hay. Quien falle la percepción no actua en el primer asalto.
 
