@@ -16,4 +16,4 @@ Se pretende transmitir una sensación de realismo con unas mecánicas sencillas 
 * **Rápido.** Con una única tirada sabras el resultado de un ataque, tanto si inflinges daño como si recibes y cuanto.
 
 * **Fácil.** ROLA usa una regla para todo en vez de, para todo una regla. La fórmula es semántica y no necesita traducción ni testeo, porque está basada en porcentajes, pero con una vuelta, para no tirar por debajo:  
-**Grados de éxito/fracaso = (Tirada-Mitad del dado empleado) +/- Diferencia de nivel**
+**Los grados de éxito o fracaso = Al azar de una tirada +/- La diferencia entre tu nivel y el de tu oponente/s u obstaculo**
