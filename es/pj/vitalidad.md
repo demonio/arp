@@ -10,5 +10,4 @@ La VIT es el atributo antagonista de la POT. Es la resistencia física que tiene
 Un personaje con mayor VIT podrá aguantar más en combate, bajo el agua, en una persecución, etcétera.
 
 ### — Regla —
-> * La VIT tiene un limite basado en la POT que sigue la siguiente fórmula si la POT supera 5 su valor:  
-> * Máxima VIT = 10 - (POT-5).
+Por cada punto en la POT por encima de 5, restamos 1 al máximo posible en la VIT.
