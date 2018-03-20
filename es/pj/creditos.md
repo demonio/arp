@@ -3,12 +3,13 @@ Creditos
 ========
 
 **Diseño y redacción:** Raúl Montejano Rodríguez «demonio».  
-**Ilustraciones:** Enmanuel Martinez Lema.  
-**Maquetación:** Raúl Montejano Rodríguez «demonio».  
-**Corrección:** Raúl Montejano Rodríguez «demonio».  
+**Portada:** Andrés Sáez (Marlock). 
+**Ilustraciones:**
+**Maquetación:**  
+**Corrección:**  
 **Pruebas y revisión:**   
-**Edición:** Raúl Montejano Rodríguez «demonio».  
-**Influencias:** Estrellas Errantes  
+**Edición:**
+**Influencias:** Estrellas Errantes, Frágil
 **Depósito legal:** M-55555-4444  
 **ISNB:** 333-22-666666-1-1
 
