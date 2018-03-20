@@ -9,7 +9,7 @@ Creditos
 **Corrección:**  
 **Pruebas y revisión:**  
 **Edición:**  
-**Influencias:** Estrellas Errantes, Frágil  
+**Influencias:** D&D, Estrellas Errantes, Frágil  
 **Depósito legal:** M-55555-4444  
 **ISNB:** 333-22-666666-1-1
 
