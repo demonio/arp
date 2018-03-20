@@ -17,3 +17,5 @@ Además trae consigo la forma de convertir y usar las reglas de cualquier otro j
 Esta versión del juego es CC-0, la licencia más abierta posibe, lista para su difusión, utilización y venta con o sin cambios, ni mención.
 
 <span class="center-x">![CC0](https://rola.multisitio.es/img/jdr/cc0.png)</span>
+
+Las portada tiene licencia CC-BY-ND. 

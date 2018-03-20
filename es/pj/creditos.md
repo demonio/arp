@@ -2,7 +2,7 @@
 Creditos
 ========
 
-**Diseño y redacción:** Raúl Montejano Rodríguez «Demonio».  
+**Diseño y redacción:** Raúl Montejano Rodríguez «demonio».  
 **Portada:** Andrés Sáez «Marlock».  
 **Ilustraciones:**  
 **Maquetación:**  
