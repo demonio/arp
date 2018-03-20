@@ -7,6 +7,7 @@
 1. [Premisas](https://github.com/demonio/arp/tree/master/es/pj/premisas.md)
 1. [Requisitos](https://github.com/demonio/arp/tree/master/es/pj/requisitos.md)
 1. [Atributos](https://github.com/demonio/arp/tree/master/es/pj/atributos.md)
+1. [POTencia](https://github.com/demonio/arp/tree/master/es/pj/potencia.md)
 1. [Estados](https://github.com/demonio/arp/tree/master/es/pj/estados.md)
 1. [Comprobaciones](https://github.com/demonio/arp/tree/master/es/pj/comprobaciones.md)
 1. [Semántica](https://github.com/demonio/arp/tree/master/es/pj/semantica.md)
