@@ -1,6 +1,6 @@
 
-La potencia
-===========
+Potencia
+========
 
 ### — Descripción —
 La potencia (en adelante POT), es el atributo que refleja la explosividad del personaje. Cuanto más músculo, mayor POT y por lo tanto mayor resistencia al daño.

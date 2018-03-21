@@ -1,6 +1,6 @@
 
-La vitalidad
-============
+Vitalidad
+=========
 
 ### — Descripción —
 La vitalidad (en adelante VIT) es el atributo que refleja como de activo es del personaje y su fatiga.
