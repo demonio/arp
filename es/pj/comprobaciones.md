@@ -6,7 +6,7 @@ Comprobaciones
 Si el sistema de reglas es el esqueleto, las comprobaciones son médula espinar, la parte más importante. Cuando el GM pide al PJ que realice una comprobación de atributo o habilidad, el PJ hace una jugada o tirada para determinar el grado de éxito o fracaso. Una sola tirada refleja todo; esquiva, cuanto daño hacemos o recibimos, donde lo hacemos y si además ganamos o perdemos tiempo, distancia o algún otro recurso.
 
 ### — Regla —
-A continuación resumimos las cuatro fases a tener en cuenta: 
+A continuación resumimos las fases a tener en cuenta: 
 
 1. **Percepción.** Cada PJ hace una comprobación de percepción para anticiparse a una amenaza y prevenir ser sorprendido. Fallar supone perder el primer asalto, solo con la posibilidad de defenderse. 
 
