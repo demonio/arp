@@ -3,7 +3,8 @@ Comprobaciones
 ==============
 
 ### — Descripción —
-Casi todas las jugadas/tiradas las realiza el jugador siempre y cuando haya que resolver una acción que suponga un reto superar. Las comprobaciones determinan el éxito o fracaso de los PJs. Una sola tirada refleja todo; esquiva, cuanto daño hacemos o recibimos, donde lo hacemos y si además ganamos o perdemos tiempo, distancia o algún otro recurso.
+Si el sistema de reglas es el esqueleto, las comprobaciones son médula espinar, la parte más importante.  
+Cuando el GM pide al PJ que realice una comprobación de atributo o habilidad, el PJ hace una jugada o tirada para determinar el grado de éxito o fracaso. Una sola tirada refleja todo; esquiva, cuanto daño hacemos o recibimos, donde lo hacemos y si además ganamos o perdemos tiempo, distancia o algún otro recurso.
 
 ### — Regla —
 Como regla tenemos cuatro fases que vamos a describir. Más adelante las detallaremos.
