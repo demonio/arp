@@ -6,7 +6,7 @@ Puedes jugar a ROL Avanzado (ROLA), con este manual, la hoja de personaja de la 
 
 De dos jugadores en adelante, donde un jugador hará de GM (Guardian Multisitio o Multiplano o Mutiverso a elegir) y los demás de PJ (Personaje Jugador).
 
-La creacción previa del personaje, ya situa al jugador con 5 años de experiecia en el plano de aterrizaje.
+La creacción previa del personaje, ya situa al jugador con cinco años de experiecia en el plano de aterrizaje.
 
 Por lo tanto, el GM será el encargado de preparar una introducción que situe a los jugadores en una escena, donde estos puedan interactuar con PNJs (Personajes No Jugadores) controlados por el GM y los elementos que pueblan la propia escena (edificios, objetos, etcétera). Es justo en el momento en el que empieza la primera aventura.
 
