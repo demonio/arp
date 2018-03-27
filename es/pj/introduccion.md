@@ -13,9 +13,3 @@ Los jugadores se convierten en personajes en busca de respuestas, a la par que l
 Este es el manual del PJ (Personaje Jugador), donde encontrarás todo lo necesario para crear tu personaje y unas reglas para empezar a jugar.
 
 Además trae consigo la forma de convertir y usar las reglas de cualquier otro juego de ROL.
-
-Esta versión del juego es CC-0, la licencia más abierta posibe, lista para su difusión, utilización y venta con o sin cambios, ni mención.
-
-<span class="center-x">![CC0](https://rola.multisitio.es/img/jdr/cc0.png)</span>
-
-Las portada tiene licencia CC-BY-ND. 
