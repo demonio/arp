@@ -7,6 +7,7 @@
 1. [Licencia](https://github.com/demonio/arp/tree/master/es/pj/licencia.md)
 1. [Premisas](https://github.com/demonio/arp/tree/master/es/pj/premisas.md)
 1. [Requisitos](https://github.com/demonio/arp/tree/master/es/pj/requisitos.md)
+1. [Escala](https://github.com/demonio/arp/tree/master/es/pj/escala.md)
 1. [Atributos](https://github.com/demonio/arp/tree/master/es/pj/atributos.md)
 1. [Potencia](https://github.com/demonio/arp/tree/master/es/pj/potencia.md)
 1. [Vitalidad](https://github.com/demonio/arp/tree/master/es/pj/vitalidad.md)
