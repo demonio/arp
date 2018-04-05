@@ -2,14 +2,13 @@
 Escala
 ======
 
-A continuación proponemos algunas listas de ejemplo que relacionan la escala de números con palabras.  
-Aunque los números hablan por sí solos, cuando a la inversa queremos asignar un número a algo, necesitamos una refencia semántica para estar más acertado.
+La escala del juego funciona como si de una nota de examen se tratara, donde el 10 es la nota más alta y el 0 la más baja.
 
-Las listas no son definitivas ya que a veces es muy difícil encontrar diferencias entre palabras tan similares.  
-Puedes emplear tu propia semántica de terminos como si de una nota de examen se tratara, donde el 10 es la nota más alta y el 0 la más baja.
+Puedes añadir más listas que relacionen los números con una semántica que se adapte a un termino concreto y/o mejorar las que se han definido.
+ 
 
 | Valor   | Atributo físico    | Mental            | Habilidades             |
-| :------ | :----------------- | :---------------- | 
+| :------ | :----------------- | :---------------- | :---------------------- |
 | **10**. | _[Perfecto]_       | _[Perfecto]_      | _[Maestro de maestros]_ |
 | **9**.  | _[Casi perfecto]_  | _[Sobresaliente]_ | _[Maestro]_             |
 | **8**.  | _[Admirable]_      | _[Sensacional]_   | _[Experto]_             |
@@ -20,7 +19,7 @@ Puedes emplear tu propia semántica de terminos como si de una nota de examen se
 | **3**.  | _[Dejado]_         | _[Despreocupado]_ | _[Enteradillo]_         |
 | **2**.  | _[Flojo]_          | _[Tonto]_         | _[Aprendiz]_            |
 | **1**.  | _[Débil]_          | _[Retrasado]_     | _[Neófito]_             |
-| **0**.  | _[Inerte]_         | _[Ido]_          | _[Sin experiencia]_     |
+| **0**.  | _[Inerte]_         | _[Ido]_           | _[Sin experiencia]_     |
 
 | Valor   | Obstaculos         |                                             |
 | :------ | :----------------- | :------------------------------------------ |
