@@ -8,19 +8,19 @@ Aunque los números hablan por sí solos, cuando a la inversa queremos asignar u
 Las listas no son definitivas ya que a veces es muy difícil encontrar diferencias entre palabras tan similares.  
 Puedes emplear tu propia semántica de terminos como si de una nota de examen se tratara, donde el 10 es la nota más alta y el 0 la más baja.
 
-| Valor   | Atributos                         | Habilidades             |
-| :------ | :-------------------------------- | :---------------------- | 
-| **10**. | _[Perfecto]_                      | _[Maestro de maestros]_ |
-| **9**.  | _[Casi perfecto] [Sobresaliente]_ | _[Maestro]_             |
-| **8**.  | _[Admirable] [Sensacional]_       | _[Experto]_             |
-| **7**.  | _[Resultón] [Excelente]_          | _[Aventajado]_          |
-| **6**.  | _[Destacable] _[Decente]_         | _[Ducho]_               |
-| **5**.  | _[Discreto] [Aceptable]_          | _[Puesto]_              | 
-| **4**.  | _[Del montón] [Insuficiente]_     | _[Sabiondo]_            |
-| **3**.  | _[Dejado] [Despreocupado]_        | _[Enteradillo]_         |
-| **2**.  | _[Flojo] [Tonto]_                 | _[Aprendiz]_            |
-| **1**.  | _[Débil] [Retrasado]_             | _[Neófito]_             |
-| **0**.  | _[Ni siente] [Ni padece]_         | _[Sin experiencia]_     |
+| Valor   | Atributo físico    | Mental            | Habilidades             |
+| :------ | :----------------- | :---------------- | 
+| **10**. | _[Perfecto]_       | _[Perfecto]_      | _[Maestro de maestros]_ |
+| **9**.  | _[Casi perfecto]_  | _[Sobresaliente]_ | _[Maestro]_             |
+| **8**.  | _[Admirable]_      | _[Sensacional]_   | _[Experto]_             |
+| **7**.  | _[Resultón]_       | _[Excelente]_     | _[Aventajado]_          |
+| **6**.  | _[Destacable]_     | _[Decente]_       | _[Ducho]_               |
+| **5**.  | _[Discreto]_       | _[Aceptable]_     | _[Puesto]_              | 
+| **4**.  | _[Del montón]_     | _[Insuficiente]_  | _[Sabiondo]_            |
+| **3**.  | _[Dejado]_         | _[Despreocupado]_ | _[Enteradillo]_         |
+| **2**.  | _[Flojo]_          | _[Tonto]_         | _[Aprendiz]_            |
+| **1**.  | _[Débil]_          | _[Retrasado]_     | _[Neófito]_             |
+| **0**.  | _[Inerte]_         | _[Ido]_          | _[Sin experiencia]_     |
 
 | Valor   | Obstaculos         |                                             |
 | :------ | :----------------- | :------------------------------------------ |
