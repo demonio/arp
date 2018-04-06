@@ -16,6 +16,7 @@
 1. [Razón](https://github.com/demonio/arp/tree/master/es/pj/razon.md)
 1. [Influencia](https://github.com/demonio/arp/tree/master/es/pj/influencia.md)
 1. [Estados](https://github.com/demonio/arp/tree/master/es/pj/estados.md)
+1. [Acciones](https://github.com/demonio/arp/tree/master/es/pj/acciones.md)
 1. [Comprobaciones](https://github.com/demonio/arp/tree/master/es/pj/comprobaciones.md)
 1. [Semántica](https://github.com/demonio/arp/tree/master/es/pj/semantica.md)
 1. [Ventajas y desventajas](https://github.com/demonio/arp/tree/master/es/pj/des_ventajas.md)
