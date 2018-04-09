@@ -1,11 +1,14 @@
 
-Acciones
+Acciones (REPETIR)
 ========
 
 ### — Descripción —
+
+
+
 El GM ha terminado de introducir a los PJs en la escena con una descripción cuidada y ha dado paso a los jugadores, para que estos empiecen a interactuar con sus personajes a través de las acciones.
 
-Las acciones siguen un esquema muy básico, pero introduce un nuevo concepto; pensar para actuar mejor.
+Las acciones siguen un esquema muy básico, pensar o actuar pero introduce un nuevo concepto; pensar para actuar mejor.
 
 Algunas veces los jugadores deciden no hacer nada, pero con este sistema, no hacer nada, aporta un +1 a la proxima acción por cada asalto pensanto hasta el limite del bono en RAZón del personaje, ya que este, se queda pensando una mejor forma de intervenir en una acción de comunicación o movimiento.
 
