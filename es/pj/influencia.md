@@ -15,4 +15,4 @@ En cualquier caso, el alma es la fuente de la magia. Se extraen del cielo, del p
 Del cielo para el uso de la luz, del paralelo para uso elemental, de un infierno para el uso de la ocuridad o de los vivos sin uso especifico.
 
 ### — Aura —
-El aura es el aumento del resplandor del alma. Es el aumento de poder, para poder usar nuestra propia alma como fuente de mana.
+El aura es el aumento del resplandor del alma. Es el aumento de poder, para usar nuestra propia alma como fuente de mana.
