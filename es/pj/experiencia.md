@@ -17,13 +17,13 @@ Cuando se comprueba el éxito o fracaso de una acción y esta da como resultado 
 
 ### — Ejemplo —
 Si tenemos en nadar un 43% y sacamos en 1d100:
-* 11. Crítico con 3 grados de éxito y 1 punto de experiencia sobre 100 (1 rango).
-* 22. Crítico con 2 grados de éxito y 2 punto de experiencia (PX).
-* 33. Crítico con 1 grados de éxito y 3 PX.
-* 44. Pífia sin grados de éxito y 4 PX.
-* 55. Pífia con 1 grado de fracaso y 5 PX.
-* 66. Pífia con 2 grados de fracaso y 6 PX.
-* 77. Pífia con 3 grados de fracaso y 7 PX.
-* 88. Pífia con 4 grados de fracaso y 8 PX.
-* 99. Pífia con 5 grados de fracaso y 9 PX.
-* 00. Crítico con consecuencia de pífia con 4 grados de éxito y 6 grados de fracaso y 10 PX.
+11. Crítico con 3 grados de éxito y 1 punto de experiencia sobre 100 (1 rango).
+22. Crítico con 2 grados de éxito y 2 punto de experiencia (PX).
+33. Crítico con 1 grados de éxito y 3 PX.
+44. Pífia sin grados de éxito y 4 PX.
+55. Pífia con 1 grado de fracaso y 5 PX.
+66. Pífia con 2 grados de fracaso y 6 PX.
+77. Pífia con 3 grados de fracaso y 7 PX.
+88. Pífia con 4 grados de fracaso y 8 PX.
+99. Pífia con 5 grados de fracaso y 9 PX.
+00. Crítico con consecuencia de pífia con 4 grados de éxito y 6 grados de fracaso y 10 PX.
