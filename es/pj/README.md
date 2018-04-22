@@ -19,6 +19,7 @@
 1. [Acciones](https://github.com/demonio/arp/tree/master/es/pj/acciones.md)
 1. [Comprobaciones](https://github.com/demonio/arp/tree/master/es/pj/comprobaciones.md)
 1. [Semántica](https://github.com/demonio/arp/tree/master/es/pj/semantica.md)
+1. [Metajuego](https://github.com/demonio/arp/tree/master/es/pj/metajuego.md)
 1. [Ventajas y desventajas](https://github.com/demonio/arp/tree/master/es/pj/des_ventajas.md)
 1. [Críticos](https://github.com/demonio/arp/tree/master/es/pj/criticos.md)
 1. [Pifias](https://github.com/demonio/arp/tree/master/es/pj/pifias.md)
