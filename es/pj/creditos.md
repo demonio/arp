@@ -10,7 +10,7 @@ Creditos
 * **Pruebas y revisión:**  
 * **Edición:**  
 * **Influencias:**
-	* BRP (los juegos con mecánica porcentual)
+	* BRP (su mecánica porcentual)
 	* D&D (en especial quita edición)
 	* Jonh Harper (sus juegos y en especial sus hacks)
 	* yipikayei.com  (sus juegos y su gente)
