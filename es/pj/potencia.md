@@ -14,9 +14,9 @@ También hay que tener en cuenta que hay músculos antagonistas a otros. Esto qu
 
 ### — Regla —
 Anota el nivel de POT en tu hoja de personaje:
-* 7 si eres un competidor de artes marciales, un guarda o un militar.
-* 6 si entrenas tu cuerpo a diario por tú cuenta.
-* 5 si entrenas tu cuerpo entre dos y tres veces por semana.
-* 4 si entrenas tu cuerpo una vez por semana.
+* 7 si eres un competidor de artes marciales, un guarda o un militar con mucho músculo.
+* 6 si entrenas el volumen del músculo a diario por tú cuenta.
+* 5 si entrenas los músculos entre dos y tres veces por semana.
+* 4 si entrenas una vez por semana por hacer algo.
 * 3 si eres una persona sedentaria.
 * 2 si te consideras débil.
