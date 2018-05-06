@@ -5,3 +5,4 @@
 1. [Trasfondos](https://github.com/demonio/arp/tree/master/es/pj/trasfondos.md)
 1. [Escala](https://github.com/demonio/arp/tree/master/es/pj/escala.md)
 1. [Potencia](https://github.com/demonio/arp/tree/master/es/pj/potencia.md)
+1. [Vitaliad](https://github.com/demonio/arp/tree/master/es/pj/vitaliad.md)
