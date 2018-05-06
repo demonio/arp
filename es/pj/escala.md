@@ -41,10 +41,10 @@ Puedes añadir más listas que relacionen los números con una semántica que se
 | **9**.  | _[Devoción]_      | Campeón de tú continente. |
 | **8**.  | _[Admiración]_    | Campeón de tú nación.     |
 | **7**.  | _[Respeto]_       | Campeón de tú región.     |
-| **6**.  | _[Consideración]_ | Campeón de tú ciudad.     |
-| **5**.  | _[Atención]_      | Campeón de tú comunidad.  |
+| **6**.  | _[Consideración]_ | Campeón de tú entorno.    |
+| **5**.  | _[Atención]_      | Gente aplicada.           |
 | **4**.  | _[Pasotismo]_     | Gente corriente.          |
-| **3**.  | _[Recelo]_        | Gente poco considerada.   |
-| **2**.  | _[Desprecio]_     | Gente exluida.            |
-| **1**.  | _[Prejuicio]_     | Gente marginada.          |
-| **0**.  | _[Indiferencia]_  | Gente sin posición.       |
+| **3**.  | _[Recelo]_        | Gente sedentaria.         |
+| **2**.  | _[Desprecio]_     | Gente débil.              |
+| **1**.  | _[Prejuicio]_     | Gente mal nutrida.        |
+| **0**.  | _[Indiferencia]_  | Gente enferma.            |

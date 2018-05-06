@@ -3,3 +3,5 @@
 1. [Hdp1](https://github.com/demonio/arp/tree/master/es/pj/hdp_1.md)
 1. [Hdp2](https://github.com/demonio/arp/tree/master/es/pj/hdp_2.md)
 1. [Trasfondos](https://github.com/demonio/arp/tree/master/es/pj/trasfondos.md)
+1. [Escala](https://github.com/demonio/arp/tree/master/es/pj/escala.md)
+1. [Potencia](https://github.com/demonio/arp/tree/master/es/pj/potencia.md)
