@@ -15,5 +15,4 @@ Anota el nivel de VIT en tu hoja de personaje:
 * 5 si corres entre dos y tres veces por semana.
 * 4 si corres una vez por semana.
 * 3 si eres una persona sedentaria.
-* 2 si te consideras débil.
 > Por cada punto en la POT por encima de 5, restamos 1 al máximo posible en la VIT.

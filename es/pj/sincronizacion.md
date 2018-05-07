@@ -11,4 +11,3 @@ Anota el nivel de SIN en tu hoja de personaje:
 * 5 si entrenas un deporte de pelota o arte marcial dos o tres veces por semana.
 * 4 si entrenas un deporte de pelota o arte marcial una vez semana.
 * 3 si eres una persona sedentaria.
-* 2 si te consideras débil.
