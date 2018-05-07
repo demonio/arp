@@ -9,3 +9,4 @@
 1. [Sincronización](https://github.com/demonio/arp/tree/master/es/pj/sincronizacion.md)
 1. [Percepción](https://github.com/demonio/arp/tree/master/es/pj/percepcion.md)
 1. [Razón](https://github.com/demonio/arp/tree/master/es/pj/razon.md)
+1. [Influencia](https://github.com/demonio/arp/tree/master/es/pj/influencia.md)
