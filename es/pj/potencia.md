@@ -3,26 +3,31 @@ Potencia
 ========
 
 ¿Propiedades?
+-------------
 * Abreviatura: POT
 * Color: Rojo
 * Compatible con: FUErza
 * Gema: Rubí
 
 ¿Representa?
+------------
 * Músculo
 * Resistencia al daño
 * Tamaño
 
 ¿Bueno para?
+------------
 * Cargar peso
 * Esprintar
 * Hacer más daño
 
 ¿Malo para?
+-----------
 * Actividad física prolongada
 * Elasticidad
 
 ¿Requiere?
+----------
 * Comida extra (proteinas)
 * Ejercicio extra (estático)
 
