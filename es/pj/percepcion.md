@@ -3,19 +3,23 @@ Percepción
 ==========
 
 ¿Propiedades?
+-------------
 * Abreviatura: PER
 * Color: Cian
 * Compatible con: SABiduría
 * Gema: Aguamarina
 
 ¿Representa?
+------------
 * Los sentidos
 * La intuición
 
 ¿Bueno para?
+------------
 * Anticiparse
 
 ¿Malo para?
+-----------
 * Concentrarse
 
 ### — Regla —

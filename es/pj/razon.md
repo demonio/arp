@@ -3,22 +3,27 @@ Razón
 =====
 
 ¿Propiedades?
+-------------
 * Abreviatura: RAZ
 * Color: Azul
 * Compatible con: INTeligencia
 * Gema: Zafiro
 
 ¿Representa?
+------------
 * Una parte del cerebro
 
 ¿Bueno para?
+------------
 * Resolver problemas pensando
 * Memorizar 
 
 ¿Malo para?
+-----------
 * Superar voluntad por miedo
 
 ¿Requiere?
+----------
 * Comida rica en azucares y fósforo
 * Ejercicio mental constante
 

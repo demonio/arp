@@ -3,20 +3,24 @@ Sincronización
 ==============
 
 ¿Propiedades?
+-------------
 * Abreviatura: SIN
 * Color: Verde
 * Compatible con: DEStreza
 * Gema: Esmeralda
 
 ¿Representa?
+------------
 * Los estímulos eléctricos
 * La iniciativa
 
 ¿Bueno para?
+------------
 * Reaccionar rápido
 * Mantener el equilibrio
 
 ¿Requiere?
+----------
 * Mantener una dieta equilibrada y un entrenamiento variado
 
 ### — Regla —

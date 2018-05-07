@@ -3,23 +3,28 @@ Vitalidad
 =========
 
 ¿Propiedades?
+-------------
 * Abreviatura: VIT
 * Color: Amarillo
 * Compatible con: CONstitución
 * Gema: Topacio
 
 ¿Representa?
+------------
 * Corazon y pulmñon
 * Fatiga
 
 ¿Bueno para?
+------------
 * Actividad física prolongada
 * Aguantar la respiración bajo el agua
 
 ¿Malo para?
+-----------
 Desarrollar volumen de músculo
 
 ¿Requiere?
+----------
 * Comida extra (hidratos)
 * Ejercicio extra (dinámico)
 

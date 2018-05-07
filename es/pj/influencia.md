@@ -3,23 +3,28 @@ Influencia
 ==========
 
 ¿Propiedades?
+-------------
 * Abreviatura: INF
 * Color: Rojo
 * Compatible con: CARisma
 * Gema: Morganita
 
 ¿Representa?
+------------
 * La comunicación verbal y corporal
 
 ¿Bueno para?
+------------
 * Embaucar
 * Liderar personas
 * Seducir
 
 ¿Malo para?
+-----------
 * Discreción
 
 ¿Requiere?
+----------
 * Extra de fruta (antioxidantes)
 * Ejercicio moderado
 
