@@ -8,3 +8,4 @@
 1. [Vitalidad](https://github.com/demonio/arp/tree/master/es/pj/vitalidad.md)
 1. [Sincronización](https://github.com/demonio/arp/tree/master/es/pj/sincronizacion.md)
 1. [Percepción](https://github.com/demonio/arp/tree/master/es/pj/percepcion.md)
+1. [Razón](https://github.com/demonio/arp/tree/master/es/pj/razon.md)

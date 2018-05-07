@@ -12,9 +12,9 @@ También hay que tener en cuenta que hay músculos antagonistas a otros. Esto qu
 
 ### — Regla —
 Anota el nivel de POT en tu hoja de personaje:
-* 7 si eres un competidor de halterofilia o un portero de discoteca o similar con mucho músculo.
+* 7 si eres un competidor de halterofilia o un peso pesado de músculo sin grasa.
 * 6 si entrenas el volumen del músculo a diario por tú cuenta.
-* 5 si entrenas los músculos entre dos y tres veces por semana.
+* 5 si levantas peso entre dos y tres veces por semana.
 * 4 si entrenas una vez por semana por hacer algo.
 * 3 si eres una persona sedentaria.
 * 2 si te consideras débil.
