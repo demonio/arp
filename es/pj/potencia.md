@@ -2,13 +2,29 @@
 Potencia
 ========
 
-La potencia (en adelante POT) es el músculo. Cuanto más músculo, mayor POT y por lo tanto mayor resistencia al daño.
+¿Propiedades?
+* Abreviatura: POT
+* Color: Rojo
+* Compatible con: FUErza
+* Gema: Rubí
 
-La POT es el atributo antagonista de la VIT. Es el atributo que nos dirá cuanto peso podemos levantar, tranportar y durante cuanto tiempo. Así como el daño extra que podemos inflingir al impactar.
+¿Representa?
+* Músculo
+* Resistencia al daño
+* Tamaño
 
-Cuanto más POT mayor explosividad y esprint. Por contra, menor elasticidad, mayor cansancio (al necesitar más oxígeno) y una ingesta mayor de proteinas para mantenerlos, así como un constante ejercicio.  
+¿Bueno para?
+* Cargar peso
+* Esprintar
+* Hacer más daño
 
-También hay que tener en cuenta que hay músculos antagonistas a otros. Esto quiere decir, que en los casos donde los músculos nos ayudan, en otros casos nos molestan; pues los músculos se preparan especialmente para el tipo de ejercicio realizado.
+¿Malo para?
+* Actividad física prolongada
+* Elasticidad
+
+¿Requiere?
+* Comida extra (proteinas)
+* Ejercicio extra (estático)
 
 ### — Regla —
 Anota el nivel de POT en tu hoja de personaje:

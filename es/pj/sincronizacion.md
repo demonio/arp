@@ -2,7 +2,22 @@
 Sincronización
 ==============
 
-La sincronización (en adelante SIN) es el atributo que usa la mente y el cuerpo a partes iguales. Es el estímulo eléctrico que activa nuestros músculos para reaccionar, son los reflejos, la iniciativa, el equilibrio, etcétera.
+¿Propiedades?
+* Abreviatura: SIN
+* Color: Verde
+* Compatible con: DEStreza
+* Gema: Esmeralda
+
+¿Representa?
+* Los estímulos eléctricos
+* La iniciativa
+
+¿Bueno para?
+* Reaccionar rápido
+* Mantener el equilibrio
+
+¿Requiere?
+* Mantener una dieta equilibrada y un entrenamiento variado
 
 ### — Regla —
 Anota el nivel de SIN en tu hoja de personaje:

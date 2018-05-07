@@ -2,7 +2,21 @@
 Percepción
 ==========
 
-La percepción (en adelante PER) es el atributo que representa los cinco sentidos del personaje, ver, tocar, oler, oir y degustar, incluso un sexto sentido basado en la intuición. La PER nos ayudará a estar atentos y por ende a prevenir ser sorprendidos.
+¿Propiedades?
+* Abreviatura: PER
+* Color: Cian
+* Compatible con: SABiduría
+* Gema: Aguamarina
+
+¿Representa?
+* Los sentidos
+* La intuición
+
+¿Bueno para?
+* Anticiparse
+
+¿Malo para?
+* Concentrarse
 
 ### — Regla —
 Anota el nivel de SIN en tu hoja de personaje:

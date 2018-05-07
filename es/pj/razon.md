@@ -2,9 +2,25 @@
 Razón
 =====
 
-La razón (en adelante RAZ) es el atributo basado en el cálculo y la memoria del personaje.
+¿Propiedades?
+* Abreviatura: RAZ
+* Color: Azul
+* Compatible con: INTeligencia
+* Gema: Zafiro
 
-Las situaciones que requieran cierto conocimiento, comunicación o idea, se resuleven por otra via, donde la acción de rolear del jugador, debería ser suficiente.
+¿Representa?
+* Una parte del cerebro
+
+¿Bueno para?
+* Resolver problemas pensando
+* Memorizar 
+
+¿Malo para?
+* Superar voluntad por miedo
+
+¿Requiere?
+* Comida rica en azucares y fósforo
+* Ejercicio mental constante
 
 ### — Regla —
 Anota el nivel de RAZ en tu hoja de personaje:

@@ -2,11 +2,26 @@
 Vitalidad
 =========
 
-La vitalidad (en adelante VIT) es el atributo que refleja como de activo eres y la fatiga.
+¿Propiedades?
+* Abreviatura: VIT
+* Color: Amarillo
+* Compatible con: CONstitución
+* Gema: Topacio
 
-La VIT es el atributo antagonista de la POT. Es la resistencia física que se tiene para recorrer distancias medias y largas a buen ritmo sin pararse. Representa la capacidad de aguantar un mayor número de acciones que requieran un esfuerzo físico.
+¿Representa?
+* Corazon y pulmñon
+* Fatiga
 
-A mayor VIT se podrá aguantar más en combate, bajo el agua, en una persecución, etcétera.
+¿Bueno para?
+* Actividad física prolongada
+* Aguantar la respiración bajo el agua
+
+¿Malo para?
+Desarrollar volumen de músculo
+
+¿Requiere?
+* Comida extra (hidratos)
+* Ejercicio extra (dinámico)
 
 ### — Regla —
 Anota el nivel de VIT en tu hoja de personaje:
