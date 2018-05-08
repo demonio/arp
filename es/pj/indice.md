@@ -2,5 +2,5 @@
 Índice
 ======
 
-**De jugador a personaje**
-**Trasfondos**
+- **Del jugador a personaje**
+- **Trasfondos**
