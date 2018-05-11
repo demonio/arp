@@ -2,34 +2,26 @@
 Personalidad
 ============
 
-Tira 1d12 o escoge un signo del horoscopo para respresentar tu personalidad.
+Tira 1d12 o escoge un signo y a continuación escribe una frase que defina la personalidad de tu personaje, un principio que lleve a rajatabla y que a veces le meta en problemas.
 
-| B. Española | B. Francesa | Elemento |
-| :---------- | :---------- | :------- | 
-| Bastos      | Treboles    | Fuego    |
-| Copas       | Corazones   | Agua     |
-| Espadas     | Picas       | Aire     |
-| Oros        | Diamantes   | Tierra   |
+| B. Española | B. Francesa | Elemento | Atributo   |
+| :---------- | :---------- | :------- | :--------- |
+| Bastos      | Treboles    | Fuego    | Vitalidad  |
+| Copas       | Corazones   | Agua     | Percepción |
+| Espadas     | Picas       | Aire     | Razón      |
+| Oros        | Diamantes   | Tierra   | Potencia   |
 
-| Elemento | Etiquetas |
-| :------- | :-------- |
-| Fuego    | Accion, arrogante, arrollador, autosuficiencia, conquistador, desconsiderado, dinámico, eficiente, egocéntrico, entusiasta, exigente, extrovertido, idealista, impaciente, independiente, instantaneo, intuición, liderazgo, optimista, rapidez, reflexión, seguro, sentimental, superación, temerario, voluntarioso. |
-| Agua     | Adaptación, anhelos, ánimo, emotivo, frustrable, inestable, infuenciable, manipulador, pasional, placeres, receptivo, sensibe, temores, vulnerable. |
-| Aire     | Adaptabilidad, atruista, compasivo, comunicación, creatividad, ideas, fantasioso, reflexión, sabiondo, social, superficial. |
-| Tierra   | Conciliación, decidido, determinación, esforzado, gastronomía, introvertido, lento, paciencia, perceptivo, perseverante, presumido, realista, sensorial, sexo, solido, tolerancia, trabajador, tranquio. |
-
-| #  | Elemento | Signo       | Definición | Etiquetas |
-| :- | :------- | :---------- | :--------- | :-------- |
-| 1  | Fuego    | Aries       | Soy        |
-| 2  | Tierra   | Tauro       | Tengo      |
-| 3  | Aire     | Gemenis     | Pienso     |
-| 4  | Agua     | Cancer      | Siento     |
-| 5  | Fuego    | Leo         | Hago       |
-| 6  | Tierra   | Virgo       | Analizo    |
-| 7  | Aire     | Libra       | Sopeso     |
-| 8  | Agua     | Escorpión   | Deseo      |
-| 9  | Fuego    | Sagitario   | Veo        |
-| 10 | Tierra   | Capricornio | Logro      |
-| 11 | Aire     | Acuario     | Sé         |
-| 12 | Agua     | Piscis      | Creo       | Amable, aprensivo, camaleón, cambiante, colaborador, compasivo, comprensivo, conciliador, confusión, contradictorio, creativo, desinterés, dialogante, dulce, emotivo, empático, encantador, escapismo, espiritual, generoso, hipocondríaco, honesto, idealista, impreciso, indeciso, intuitivo, justo, manipulador, místico, pacífico, profético, receptivo, reflexivo, sensible, sentimental, soñador, visionario, vulnerable. |
-
+| #  | Elemento | Signo       | Lema       |
+| :- | :------- | :---------- | :--------- |
+| 1  | Fuego    | Aries       | Yo soy     |
+| 2  | Tierra   | Tauro       | Yo tengo   |
+| 3  | Aire     | Gemenis     | Yo pienso  |
+| 4  | Agua     | Cancer      | Yo siento  |
+| 5  | Fuego    | Leo         | Yo hago    |
+| 6  | Tierra   | Virgo       | Yo analizo |
+| 7  | Aire     | Libra       | Yo sopeso  |
+| 8  | Agua     | Escorpión   | Yo deseo   |
+| 9  | Fuego    | Sagitario   | Yo veo     |
+| 10 | Tierra   | Capricornio | Yo logro   |
+| 11 | Aire     | Acuario     | Yo sé      |
+| 12 | Agua     | Piscis      | Yo creo    |
