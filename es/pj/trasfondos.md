@@ -2,17 +2,11 @@
 Trasfondos
 ==========
 
-Hola jugador, se ha producido un crisol de mundos, nadie sabe como ni por qué, pero te encuentras en un mundo muy diferente al tuyo. Tú ropa y las pertenencias que llevaras encima se han desisntegrado y te encuentras en un pajar muy desconcertado.
+Un trasfondo es una frase que engloba un conjunto de habilidades que sabes hacer gracias al número de años (niveles) de entrenamiento, estudio o experiencia.
 
-Has tenido suerte y las primeras personas que aparecen ante tus ojos, te proporcionan ropa y algo de comer y beber. No les entiendes nada, pero intuyes que lo primero que te preguntan es por tu nombre.
+No te preocupes si tú trasfondo no sirve en una ambientación. Los trasfondos son como los estudios o trabajos que completan tu curriculum. Y como tal, a medida que evolucionas, hay trasfondos que omites y otros que añades a tu perfil.
 
 ### — Regla —
-Anota un nombre en la hoja de personaje.
-
-A continuación escribe los trasfondos:
-
-Un trasfondo es una frase que engloba un conjunto de habilidades que sabes hacer y un nivel, equivale a un año de experiencia en esas habilidades.
-
 Como jugador anota un trasfondo a nivel 7 sobre algo que hayas estudiado o sobre algo en lo que estabas trabajando en tu vida anterior.
 
 Anota un trafondo a nivel 6 sobre tu afición favorita.

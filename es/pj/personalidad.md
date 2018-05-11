@@ -2,26 +2,26 @@
 Personalidad
 ============
 
-Tira 1d12 o escoge un signo y a continuación escribe una frase que defina la personalidad de tu personaje, un principio que lleve a rajatabla y que a veces le meta en problemas.
+Pon tu signo, el elemento al que pertenece y escribe un principio que lleve a rajatabla y que a veces le meta en problemas.
 
-| B. Española | B. Francesa | Elemento | Atributo   |
-| :---------- | :---------- | :------- | :--------- |
-| Bastos      | Treboles    | Fuego    | Vitalidad  |
-| Copas       | Corazones   | Agua     | Percepción |
-| Espadas     | Picas       | Aire     | Razón      |
-| Oros        | Diamantes   | Tierra   | Potencia   |
+| #  | Signo       | Elemento | Lema       |
+| :- | :---------- | :------- | :--------- |
+| 1  | Aries       | Fuego    | Yo soy     |
+| 2  | Tauro       | Tierra   | Yo tengo   |
+| 3  | Gemenis     | Aire     | Yo pienso  |
+| 4  | Cancer      | Agua     | Yo siento  |
+| 5  | Leo         | Fuego    | Yo hago    |
+| 6  | Virgo       | Tierra   | Yo analizo |
+| 7  | Libra       | Aire     | Yo sopeso  |
+| 8  | Escorpión   | Agua     | Yo deseo   |
+| 9  | Sagitario   | Fuego    | Yo veo     |
+| 10 | Capricornio | Tierra   | Yo logro   |
+| 11 | Acuario     | Aire     | Yo sé      |
+| 12 | Piscis      | Agua     | Yo creo    |
 
-| #  | Elemento | Signo       | Lema       |
-| :- | :------- | :---------- | :--------- |
-| 1  | Fuego    | Aries       | Yo soy     |
-| 2  | Tierra   | Tauro       | Yo tengo   |
-| 3  | Aire     | Gemenis     | Yo pienso  |
-| 4  | Agua     | Cancer      | Yo siento  |
-| 5  | Fuego    | Leo         | Yo hago    |
-| 6  | Tierra   | Virgo       | Yo analizo |
-| 7  | Aire     | Libra       | Yo sopeso  |
-| 8  | Agua     | Escorpión   | Yo deseo   |
-| 9  | Fuego    | Sagitario   | Yo veo     |
-| 10 | Tierra   | Capricornio | Yo logro   |
-| 11 | Aire     | Acuario     | Yo sé      |
-| 12 | Agua     | Piscis      | Yo creo    |
+| Elemento | Atributo   | B. Española | B. Francesa |
+| :------- | :--------- | :---------- | :---------- |
+| Agua     | Percepción | Copas       | Corazones   |
+| Fuego    | Vitalidad  | Oros        | Diamantes   |
+| Aire     | Razón      | Espadas     | Picas       |
+| Tierra   | Potencia   | Bastos      | Treboles    |
