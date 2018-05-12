@@ -2,6 +2,8 @@
 Vitalidad
 =========
 
+La **VIT**alidad representa nuesto corazón y pulmón, nuestro aguante en carrera de fondo, bajo el agua o nuestra fatiga.  
+
 ¿Propiedades?
 -------------
 * Abreviatura: VIT

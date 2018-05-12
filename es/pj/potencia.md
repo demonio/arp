@@ -2,6 +2,8 @@
 Potencia
 ========
 
+La **POT**encia representa el músculo, cuanto mayor es este, más daño haremos al impactar, más peso podremos levantar y desplazar, tendremos más explosividad en distancias cortas y un tamaño mayor y por lo tanto mayor resistencia al daño.
+
 ¿Propiedades?
 -------------
 * Abreviatura: POT

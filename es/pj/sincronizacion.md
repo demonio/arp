@@ -2,6 +2,8 @@
 Sincronización
 ==============
 
+La **SIN**cronización es el estímulo eléctrico que activa nuestros músculos cuando reaccionamos, son los reflejos, la iniciativa, el equilibrio, mente y cuerpo a partes iguales.  
+
 ¿Propiedades?
 -------------
 * Abreviatura: SIN

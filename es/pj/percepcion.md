@@ -2,6 +2,8 @@
 Percepción
 ==========
 
+La **PER**cepción son los cinco sentidos puestos en escena, ver, tocar, oler, oir y degustar, incluso algunos personjaes desarrollan un sexto sentido basado en la intuición.
+
 ¿Propiedades?
 -------------
 * Abreviatura: PER

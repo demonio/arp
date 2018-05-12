@@ -2,6 +2,8 @@
 Influencia
 ==========
 
+La **INF**luencia es el liderazgo, la oratoria, la capacidad de persuadir y de embaucar. Es un indicativo de lo importante que resulta a los demás nuestra presencia.
+
 ¿Propiedades?
 -------------
 * Abreviatura: INF

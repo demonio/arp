@@ -2,6 +2,8 @@
 Razón
 =====
 
+La **RAZ**ón es la parte del cerebro encargada del cálculo y memoria y a la velocidad que podemos resolver un enigma o el tiempo que podemos estar concentrados sin perder efectividad.
+
 ¿Propiedades?
 -------------
 * Abreviatura: RAZ
