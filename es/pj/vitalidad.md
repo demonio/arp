@@ -23,11 +23,6 @@ Vitalidad
 -----------
 Desarrollar volumen de músculo
 
-¿Requiere?
-----------
-* Comida extra (hidratos)
-* Ejercicio extra (dinámico)
-
 ### — Regla —
 Anota el nivel de VIT en tu hoja de personaje:
 * 7 si eres un competidor de carrera de fondo.

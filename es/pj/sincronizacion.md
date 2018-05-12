@@ -19,10 +19,6 @@ Sincronización
 * Reaccionar rápido
 * Mantener el equilibrio
 
-¿Requiere?
-----------
-* Mantener una dieta equilibrada y un entrenamiento variado
-
 ### — Regla —
 Anota el nivel de SIN en tu hoja de personaje:
 * 7 si eres un competidor de artes marciales o trabajas en un puesto de seguridad activa.

@@ -8,3 +8,5 @@ Has tenido suerte y las primeras personas que aparecen ante tus ojos, te proporc
 
 ### — Regla —
 Anota un nombre en la hoja de personaje.
+
+Si no sabes en que ambientación vas a jugar, espera a que tu DJ (Dios del Juego) te lo diga.

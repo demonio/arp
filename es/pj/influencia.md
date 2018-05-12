@@ -23,11 +23,6 @@ Influencia
 -----------
 * Discreción
 
-¿Requiere?
-----------
-* Extra de fruta (antioxidantes)
-* Ejercicio moderado
-
 ### — Regla —
 Anota el nivel de INF en tu hoja de personaje:
 * 7 si eres jefe en una empresa al cargo de mucha gente.

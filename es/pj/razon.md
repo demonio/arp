@@ -22,11 +22,6 @@ Razón
 -----------
 * Superar voluntad por miedo
 
-¿Requiere?
-----------
-* Comida rica en azucares y fósforo
-* Ejercicio mental constante
-
 ### — Regla —
 Anota el nivel de RAZ en tu hoja de personaje:
 * 7 si trabajas en un puesto de responsabilidad técnico o comercial.

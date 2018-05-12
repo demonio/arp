@@ -26,11 +26,6 @@ Potencia
 * Actividad física prolongada
 * Elasticidad
 
-¿Requiere?
-----------
-* Comida extra (proteinas)
-* Ejercicio extra (estático)
-
 ### — Regla —
 Anota el nivel de POT en tu hoja de personaje:
 * 7 si eres un competidor de halterofilia o un peso pesado de músculo sin grasa.
