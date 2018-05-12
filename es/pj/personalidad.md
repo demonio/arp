@@ -2,7 +2,9 @@
 Personalidad
 ============
 
-Pon tu signo, el elemento al que pertenece y escribe un principio que lleve a rajatabla y que a veces le meta en problemas.
+Pon tu signo, el elemento al que pertenece y escribe un principio que lleve a rajatabla y que a veces le meta en problemas por cumplirlo.
+
+El lema es solo una idea de por donde puede empezar tú principio.
 
 | #  | Signo       | Elemento | Lema       |
 | :- | :---------- | :------- | :--------- |
@@ -18,6 +20,8 @@ Pon tu signo, el elemento al que pertenece y escribe un principio que lleve a ra
 | 10 | Capricornio | Tierra   | Yo logro   |
 | 11 | Acuario     | Aire     | Yo sé      |
 | 12 | Piscis      | Agua     | Yo creo    |
+
+La siguiente tabla muestra el atributo relacionado a la personalidad y los símbolos de las barajas española y francesa a los que corresponde cada elemento.
 
 | Elemento | Atributo   | B. Española | B. Francesa |
 | :------- | :--------- | :---------- | :---------- |
