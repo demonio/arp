@@ -6,7 +6,14 @@
 1. **Indice**
 1. **Introducción**
 1. **Trasfondos**
+1. **Personalidad**
 1. **Atributos**
+1. **Potencia**
+1. **Vitalidad**
+1. **Sincronización**
+1. **Percepción**
+1. **Razón**
+1. **Influencia**
 1. **Esfuerzo**
 1. **Acciones y grados de éxito**
 1. **Heridas y etiquetas**
