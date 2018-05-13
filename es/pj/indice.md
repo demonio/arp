@@ -14,6 +14,7 @@
 1. **Percepción**
 1. **Razón**
 1. **Influencia**
+1. **Desgaste**
 1. **Esfuerzo**
 1. **Acciones y grados de éxito**
 1. **Heridas y etiquetas**

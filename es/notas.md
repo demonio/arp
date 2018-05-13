@@ -1,5 +1,12 @@
-# ROL Avanzado
-## Notas <sup>v1.1</sup>
+
+Notas
+=====
+Estructura a los que responden los textos descriptivos:
+- ¿Quién eres?
+- ¿Qué quieres?
+- ¿Qué vas a hacer?
+- ¿Cuándo lo vas a hacer?
+- ¿Por qué lo vas a hacer? 
 
 ### Módulo de fama
 1. Para bien o para mal obtenemos fama y reputación debido al resultado de nuestras acciones. Estos puntos de fama los reparte el DJ a discrección si al terminar una misión, se corre la voz o es premiada en público.
