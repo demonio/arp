@@ -8,7 +8,6 @@ La **PER**cepción son los cinco sentidos puestos en escena, ver, tocar, oler, o
 -------------
 * Abreviatura: PER
 * Color: Cian
-* Compatible con: SABiduría
 * Gema: Aguamarina
 
 ¿Representa?

@@ -8,7 +8,6 @@ La **VIT**alidad representa nuesto corazón y pulmón, nuestro aguante en carrer
 -------------
 * Abreviatura: VIT
 * Color: Amarillo
-* Compatible con: CONstitución
 * Gema: Topacio
 
 ¿Representa?

@@ -8,7 +8,6 @@ La **SIN**cronización es el estímulo eléctrico que activa nuestros músculos 
 -------------
 * Abreviatura: SIN
 * Color: Verde
-* Compatible con: DEStreza
 * Gema: Esmeralda
 
 ¿Representa?

@@ -8,7 +8,6 @@ La **POT**encia representa el músculo, cuanto mayor es este, más daño haremos
 -------------
 * Abreviatura: POT
 * Color: Rojo
-* Compatible con: FUErza
 * Gema: Rubí
 
 ¿Representa?

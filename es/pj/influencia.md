@@ -8,7 +8,6 @@ La **INF**luencia es el liderazgo, la oratoria, la capacidad de persuadir y de e
 -------------
 * Abreviatura: INF
 * Color: Rojo
-* Compatible con: CARisma
 * Gema: Morganita
 
 ¿Representa?

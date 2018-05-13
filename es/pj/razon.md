@@ -8,7 +8,6 @@ La **RAZ**ón es la parte del cerebro encargada del cálculo y memoria y a la ve
 -------------
 * Abreviatura: RAZ
 * Color: Azul
-* Compatible con: INTeligencia
 * Gema: Zafiro
 
 ¿Representa?
