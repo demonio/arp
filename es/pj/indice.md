@@ -15,12 +15,12 @@
 1. **Razón**
 1. **Influencia**
 1. **Desgaste**
+1. **Comprobaciones**
 1. **Esfuerzo**
 1. **Acciones y grados de éxito**
 1. **Heridas y etiquetas**
 1. **Equipo**
 1. **Magia**
-1. **Comprobaciones**
 1. **Excepciones**
 1. **Iniciativa y sorpresa**
 1. **Combate**
