@@ -16,3 +16,4 @@
 1. [Desgaste](https://github.com/demonio/arp/tree/master/es/pj/desgaste.md)
 1. [Comprobaciones](https://github.com/demonio/arp/tree/master/es/pj/comprobaciones.md)
 1. [Esfuerzo](https://github.com/demonio/arp/tree/master/es/pj/esfuerzo.md)
+1. [Acciones](https://github.com/demonio/arp/tree/master/es/pj/acciones.md)

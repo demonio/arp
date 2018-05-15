@@ -17,7 +17,7 @@
 1. **Desgaste**
 1. **Comprobaciones**
 1. **Esfuerzo**
-1. **Acciones y grados de éxito**
+1. **Acciones**
 1. **Heridas y etiquetas**
 1. **Equipo**
 1. **Magia**
