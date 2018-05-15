@@ -17,6 +17,7 @@
 1. **Desgaste**
 1. **Comprobaciones**
 1. **Esfuerzo**
+1. **Escala**
 1. **Acciones**
 1. **Heridas y etiquetas**
 1. **Equipo**
