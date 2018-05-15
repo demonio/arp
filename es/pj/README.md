@@ -14,3 +14,5 @@
 1. [Razón](https://github.com/demonio/arp/tree/master/es/pj/razon.md)
 1. [Influencia](https://github.com/demonio/arp/tree/master/es/pj/influencia.md)
 1. [Desgaste](https://github.com/demonio/arp/tree/master/es/pj/desgaste.md)
+1. [Comprobaciones](https://github.com/demonio/arp/tree/master/es/pj/comprobaciones.md)
+1. [Esfuerzo](https://github.com/demonio/arp/tree/master/es/pj/esfuerzo.md)
