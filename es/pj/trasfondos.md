@@ -10,7 +10,8 @@ No te preocupes si tú trasfondo no sirve en una ambientación. Los trasfondos s
 1. Anota un trasfondo por cada trabajo, materia o afición y ponle un nivel igual al número de años en ese trasfondo.
 No te preocupes por al edad, ya que se supone que varios tras fondos se desarrollan a la vez.
 
-Si lo preieres puedes usar esta guia:
+Si lo preieres puedes usar esta guia
+------------------------------------
 - Como jugador anota un trasfondo a nivel 7 sobre algo que hayas estudiado o sobre algo en lo que estabas trabajando en tu vida anterior.
 - Anota un trafondo a nivel 6 sobre tu afición favorita.
 - Anota otro trafondo a nivel 6 sobre el deporte que más has realizado.
