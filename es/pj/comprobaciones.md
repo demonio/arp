@@ -2,16 +2,22 @@
 Comprobaciones
 ==============
 
-Cuando se realice una comprobación de atributo o habilidad, el PJ hace una jugada o tirada para determinar el grado de éxito o fracaso. Una sola tirada refleja todo; esquiva, daño inflingio, recibido, donde lo hacemos y si además ganamos o perdemos tiempo, distancia o algún otro recurso.
+Cuando vayas a realizar una acción con resultado incierto...
 
-### — Regla —
-A continuación resumimos las fases a tener en cuenta: 
+Entre tú y el DJ establecéis los atributos y trasfondos que están implicados.
 
-1. **Percepción.** Cada PJ hace una comprobación de percepción para anticiparse a una amenaza y prevenir ser sorprendido. Fallar supone perder el primer asalto, solo con la posibilidad de defenderse. 
+La útima palabra la tiene el DJ, que para eso es el Dios del Juego.
 
-1. **Iniciativa.** Toca determinar quien actua primero, normalmente midiendo nuestro atributo de sincronización, aunque habrá más formas de comprobrar esto en función de la regla de iniciativa empleada.  
-Ganar la iniciativa hace que el jugador narre como su personaje se anticipa y los detalles de su acción.
+Haz una jugada de esfuerzo y/o tira 1d100 por debajo de todos esos atributos y trasfondos.
 
-1. **Dificultad.** Según el PJ haya indicado como golpea a un oponente o trate de superar un obstaculo, el GM dirá cuantos éxitos necesita para llevar a cabo la acción y que diferencia de nivel hay entre la caracterítica o habilidad y la del obstaculo u oponente, para reflejarlo en la tirada.
+Resultado por debajo de todos esos atributos y trasfondos:
+----------------------------------------------------------
+Obtienes 1 grado de éxito por cada nivel de diferencia entre el resultado y el valor más alto de esos atributos y trasfondos.
 
-1. **Resolución.** Los grados de éxito o fracaso determinarán si hemos conseguido nuestro objetivo o nos hemos quedado a meio camino, si ha habio consecuencias, obtenido alguna ventaja o desventaja y/o además podemos hacer acciones extras.
+Resultado por encima de todos esos atributos y trasfondos:
+----------------------------------------------------------
+El DJ obtiene 1 ficha de consecuencia por cada grado de fracaso entre el resultado y el valor más bajo de esos atributos y trasfondos.
+
+Resultado entre medias de todos esos atributos y trasfondos:
+------------------------------------------------------------
+Aplica los dos casos anteriores.
