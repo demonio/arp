@@ -24,4 +24,4 @@ Comprueba el número de éxitos obtenidos.
 - **Si has conseguido suficientes para completar tu acción:** Enhorabuena, consigues tu acción y no tiene consecuencias.  
 *Si además te han sobrado grados de éxito, estos los puedes invertir en acciones extras.*
 
-- **Si no has conseguido suficientes para completar tu acción:** No lo consigues y posiblemente sufras alguna consecuencia.
+- **Si no has conseguido suficientes para completar tu acción:** No lo consigues y posiblemente sufras alguna consecuencia a discreción del DJ.
