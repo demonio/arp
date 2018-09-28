@@ -2,30 +2,27 @@
 Introducción
 ============
 
-Hola jugador, a continuanción 
+Hola jugador, a continuanción...
 
+Te despiertas desnudo sobre un monton de paja. Mareado miras a tu alrededor, pues has perdido tu memoria. Estás en un granero y delante tuyo tienes tres personas ofreciendote una muda como la que llevan ellos puesta.
 
-
-Te despiertas desnudo sobre un monton de paja. Mareado miras a tu alrededor. Estás en un granero y delante tuyo tienes tres personas ofreciendote una muda como la que llevan ellos puesta.
-
-Aun no te puedes articular palabra, escoge entre:
+Aun no te puedes articular palabra, pero rápidamente escoges entre:
 - Botas y traje de cuero rojo, un peto y yelmo de metal.
 - Botas y traje de tela verde, una chaqueta cuero.
 - Zapatos y una túnica gruesa de color azul.
+(Anótalo too en tu hoja de personaje).
 
-El mago de túnica azul chasquea los dedos a la par pronuncia unas palabras mágicas. En tu cabeza se empieza a crear un espacio de conocimiento. Has aprendido un idioma que presupone usa esta gente.
+El mago de túnica azul chasquea los dedos a la par que pronuncia unas palabras mágicas. En tu cabeza se empieza a crear un espacio de conocimiento. Has aprendido un idioma que presupone usa esta gente.
 
 Acompañas a tu mentor hasta un comedor donde te sirven algo de comida. – ¿Cúal es tu nombre? Te pregunta.
 
-Anotalo en tu hoja de personaje.
+No lo recuerdas pero improvisas uno para no parecer idiota. (Anótalo en tu hoja de personaje).
 
 – Puedo entender que tengas muchas preguntas, pero solo tengo una respuesta. Eres el elegido.
 
 Inmediatamente eres llevado a conocer las instalaciones donde llevarás un estudio y entrenamiento intensivo.
 
 Parece que no tienes más opciones que dejarte aconsejar y 
-
-
 
 se ha producido un crisol de mundos, nadie sabe como ni por qué, pero te encuentras en un mundo muy diferente al tuyo. Tú ropa y las pertenencias que llevaras encima se han desisntegrado y te encuentras en un pajar muy desconcertado.
 
