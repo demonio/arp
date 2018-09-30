@@ -8,6 +8,6 @@ Conforman un conjunto de reglas minímas necesarias para jugar a rol en mundos p
 
 - **Trasfondos:** La experiencia vivida de un personaje, por trabajos, estudios y/o aficiones.
 
-- **Atributos:** La integridad física y mental.
+- **Atributos:** La integridad física, mental y emocional.
 
 - **Acciones:** La resolución de acciones basadas en los trasfondos y atributos.

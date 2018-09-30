@@ -4,3 +4,6 @@
 1. [Hdp2](https://github.com/demonio/arp/tree/master/es/pj/hdp_2.md)
 1. [Índice](https://github.com/demonio/arp/tree/master/es/pj/indice.md)
 1. [Núcleo](https://github.com/demonio/arp/tree/master/es/pj/nucleo.md)
+1. [Trasfondos](https://github.com/demonio/arp/tree/master/es/pj/trasfondos.md)
+1. [Atributos](https://github.com/demonio/arp/tree/master/es/pj/atributos.md)
+1. [Acciones](https://github.com/demonio/arp/tree/master/es/pj/acciones.md)
