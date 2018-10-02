@@ -2,9 +2,9 @@
 Trasfondos
 ==========
 
-Aquí se dan ejemplos de las preguntas que dan como respuesta el trasfondo del personaje. Se pueden plantear otras.
+Piensa un nombre para tu personaje y anótalo en la ficha.
 
-Se recomiendda ubicar los trasfondos en 3 grupos:
+Los trasfondos se ubican en 3 grupos:
 
 - **Combate:** Estos trasfondos están asociados a la lucha en combate cuerpo a cuerpo con o sin armas donde el atributo principal es el físico.
 
