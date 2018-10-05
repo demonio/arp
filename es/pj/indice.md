@@ -7,4 +7,5 @@
 1. **Núcleo**
 1. **Trasfondos**
 1. **Atributos**
+1. **Habilidades**
 1. **Acciones**

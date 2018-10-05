@@ -4,10 +4,18 @@ Trasfondos
 
 Piensa un nombre para tu personaje y anótalo en la ficha.
 
-Los trasfondos se ubican en 3 grupos:
+- Escribe una frase que defina **a que te dedicas**. Tu trabajo o estudio.
 
-- **Combate:** Estos trasfondos están asociados a la lucha en combate cuerpo a cuerpo con o sin armas donde el atributo principal es el físico.
+- Escribe otras frase que defina **lo que hacias antes**. Otro trabajo o estudio.
 
-- **Habilidad:** Aquí los trasfondos asociados tento al atributo físico como mental. Disparar con armas o arrojarlas estaría en este grupo.
+- Escribe una frase más que defina **que haces en tu tiempo libre**. Tu afición.
 
-- **Conocimiento:** Todo trasfondo adquirido mediante el estudio, como el mágico, esta vinculado al atributo mental.
+Los trasfondos te definen en tres ambitos:
+
+1. **Combate:** Sí te has dedicado a entrenar tu físico y en la lucha cuerpo a cuerpo con o sin armas. Eres un combatiente.
+
+1. **Habilidad:** Donde se refleja las habilidades de subterfugio, incluidas las de disparar armas o arrojarlas. Eres un especialista.
+
+1. **Conocimiento:** Cuando el estudio como el de la magia hacen que descuides tu condición física. Eres un erudito.
+
+Reparte tres +1 entre los tres ambitos. Combinaciones posibles: +3 +0 +0, +2 +1 +0, y +1 +1 +1.
