@@ -7,5 +7,6 @@
 1. [Núcleo](https://github.com/demonio/arp/tree/master/es/pj/nucleo.md)
 1. [Trasfondos](https://github.com/demonio/arp/tree/master/es/pj/trasfondos.md)
 1. [Atributos](https://github.com/demonio/arp/tree/master/es/pj/atributos.md)
+1. [Estados](https://github.com/demonio/arp/tree/master/es/pj/estados.md)
 1. [Habilidades](https://github.com/demonio/arp/tree/master/es/pj/habilidades.md)
 1. [Acciones](https://github.com/demonio/arp/tree/master/es/pj/acciones.md)
