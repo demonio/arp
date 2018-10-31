@@ -10,7 +10,7 @@ Piensa un nombre para tu personaje y anótalo en la ficha.
 
 - Escribe una frase más que defina **que haces en tu tiempo libre**. Tu afición.
 
-Los trasfondos te definen en tres ambitos:
+Cuando escribas un trasfondo piensa a que ambitos pertenece:
 
 1. **Combate:** Sí te dedicas por completo a entrenar tu físico y en la lucha cuerpo a cuerpo con o sin armas. Eres un combatiente.
 
@@ -18,4 +18,6 @@ Los trasfondos te definen en tres ambitos:
 
 1. **Conocimiento:** Si todo tu tiempo lo dedicas al estudio de la magia o la tecnología, incluso descuidando tu condición física. Eres un erudito.
 
-Reparte tres +1 entre los tres ambitos. Combinaciones posibles: +3 +0 +0, +2 +1 +0, y +1 +1 +1.
+1. **Social:** Si eres de aquellos que se relacionan bien, ya sea en los bajos fondos o altas esferas, los contactos te abren muchas puertas. Te permiten obtener lo que deseas allí donde vas. ¿Para que combatir, si lo pueden hacer por ti? Eres buen negociante y casi siempre sales ganando en los tratos. 
+
+Reparte tres +1 entre los ambitos descritos. Combinaciones posibles: +3 +0 +0 +0, +2 +1 +0 +0, y +1 +1 +1 +0.
