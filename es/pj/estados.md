@@ -4,7 +4,7 @@ Estados
 
 Cuando perdemos 1 punto en uno de los tres atributos, anotamos un estado que lo relaciona con esta perdida, como por ejemplo: *[Aterrado], [Aturdido], [Enfermo], [Envenenado], [Herido]*.
 
-Cuando recibimos dos estados iguales, nuestro personaje gana el estado de *[Incapacitado]*. Con este estado el personaje es consciente de todo lo que le rodea, pero sus movimientos se reducen drastimente.
+Cuando recibimos dos estados iguales (excepto en combate, que se rige por una escala), nuestro personaje gana el estado de *[Incapacitado]*. Con este estado el personaje es consciente de todo lo que le rodea, pero sus movimientos se reducen drastimente.
 
 Podemos recibir tantos estados como puntos de atributos tengamos, hasta que uno de estos atributos llega a 0 puntos. Momento en el que recibimos el estado de *[Inconsciente]*.
 

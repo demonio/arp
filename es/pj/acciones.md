@@ -4,8 +4,16 @@ Acciones
 
 En las acciones se ponen a prueba el trasfondo o habilidades de los personajes mientras los atributos lo permitan.
 
-1. **Cuando trates de hacer algo que sea posible y cuya consecuencia de fallar resulte interesante:** Lanza tantas monedas como el atributo empleado mas el bonus de la habilidad o transfondo puesto a prueba.
+1. **Cuando trates de hacer algo que sea posible y cuya consecuencia de fallar resulte interesante:** Lanza tantas monedas como el atributo empleado y suma al resultado el bonus de la habilidad o transfondo puesto a prueba.
 
-1. Resta o suma la diferencia del nivel entre tu habilidadd y la del obstaculo u oponente. Es decir, si tu Esgrima está a +1 y tu Cuerpo es de 5 por ser un guerrero, decimos que tu nivel es de 6. Si luchas contra otro guerrero con nivel 8, tendrás un -2 a todas las pruebas de combate.
+1. El valor objetivo es el nivel de obstaculo u oponente dividido entre dos redondeando hacia arriba.
 
-1. Con 0 o menos éxitos, fracasas y empeoras tu posición. De 1 a 3 mantienes la posición pero ni fracasas ni avanzas en tu proposito, De 4 a 6 mejoras tu posición y consigues lo que te proponias, si además ya habías mejorado tu posición, consigues un éxito definitivo. De 7 a 9 consigues un éxito definitivo en tu acción. Con 10 o más, además del éxito definitivo, llamas atención de los dioses. 
+1. Se consideran éxitos cada punto de nuestro resultado por encima del valor objetivo. Si son éxitos en ataque, cada éxito escala un estado perjudicial al oponente.
+
+1. Se consideran fracasos cada punto de nuestro resultado por debajo del valor objetivo. Si son fracasos en ataque, cada fracaso nos otorga un estado perjudicial.
+
+1. Cuando iniciamos un combate lo primero que debemos determinar si estamos en ventaja, desventaja o la situación esta igualada.
+
+1. La escala es: Desventaja>Igualados>Ventaja>[Aturdido]>[Herido]>[Incapacitado]>[Insconsciente]>[Muerto]
+
+1. Como si de un partido de tenis se tratase, hasta que no se tiene ventaja no se escala hasta el siguiente estado. Cada [Estado] otorga un -1 a cuerpo. Por lo cada vez será más difícil manter ventaja para otorgar estados al oponenete y viceversa. El estado [Aturdido] solo se mantien un asalto si no se está [Herido]. Una nueva herida supone quedarse fuera de combate.
