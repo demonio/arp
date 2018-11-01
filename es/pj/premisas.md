@@ -10,4 +10,4 @@ Las premisas son lo que se pretende conseguir jugando con las reglas de este man
 
 - **Todo tiene niveles** en la escala mencionada; trasfondos, atributos, habilidades, oponentes, obstáculos.
 
-- **La dificultad** es siempre igual a la **diferencia entre el nivel** entre personajes o entre un personaje y un obstaculo. 
+- **La dificultad** viene dada por la **diferencia entre el nivel** entre personajes o entre un personaje y un obstaculo. 
